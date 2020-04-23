@@ -352,7 +352,7 @@ túlmenően évente két vagy több véradás esetén egy nap szabadság jár, a
 véradó igazolvánnyal, vagy egyéb, a Véradó Állomás által kiállított igazolással.
 
 *** 4.7. Összeférhetetlenség a közalkalmazotti jogviszonyban; a munkavégzésre irányuló további jogviszony
-Kjt. 41-44. §; Ftv. 81/A. §, 121. § (8) bekezdés
+Kjt. 41-44. §; Ftv. 121. § (8) bekezdés
 
 Jelen fejezet alkalmazása szempontjából munkavégzésre irányuló további jogviszony minden
 olyan jogviszony, amelyet a közalkalmazott közalkalmazotti jogviszonya mellett munkavégzés
@@ -361,39 +361,57 @@ vállalkozás, megbízás, munkavégzéssel járó tagsági viszony.
 
 1. A közalkalmazott nem létesíthet munkavégzésre irányuló további jogviszonyt, ha az a közalkalmazotti jogviszony alapján betöltött munkakörével összeférhetetlen.
 2. A magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult
-közalkalmazott munkakörével, vezető megbízásával összeférhetetlen, ha közeli
-hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási (felügyeleti), ellenőrzési vagy
-elszámolási kapcsolatba kerülne.
-3. A magasabb vezető és vezető nem lehet vezető tisztségviselője a munkáltató tevékenységével
-azonos tevékenységet (Alapító Okiratban felsorolt alap- és kiegészítő tevékenységek) folytató
-vagy az intézménnyel gazdasági kapcsolatban álló gazdasági társaságnak.
-4. A magasabb vezető, valamint a vezető megbízással rendelkezők és ezek közeli hozzátartozói
-nem tölthetnek be olyan intézményi társaságban (egyetem által alapított vagy részvételével
-működő gazdasági társaság) vezető tisztségviselői feladatot, nem lehetnek tagjai a felügyelő
-bizottságnak, nem láthatnak el könyvvizsgálói feladatot, amelyet a felsőoktatási intézmény
-hozott létre, illetve amelyben részesedéssel rendelkezik.
-5. Az Egyetem a vele közalkalmazotti jogviszonyban álló közalkalmazottal munkaköri
-feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet. Az Egyetemen
-oktatói, kutatói, tanári munkakörben közalkalmazotti jogviszonnyal rendelkező oktatóval az
-
-Egyetem más Karán oktatói, kutatói, tanári munkakörben, munkavégzésre irányuló további
-közalkalmazotti jogviszony nem létesíthető.
-6. Az Egyetem által fenntartott közoktatási intézmény – mint önálló jogi személy –
-alkalmazottai létesíthetnek munkavégzésre irányuló további jogviszonyt az Egyetem szervezeti
-egységeinél, amennyiben az egyéb feltételeknek a foglalkoztatásuk megfelel.
-7. A munkaidőt érintő összeférhetetlenség esetei:
+közalkalmazott munkakörével, vezető megbízásával összeférhetetlen, 
+  a) ha közeli hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási
+     (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne;
+  b) a munkáltató tevékenységével azonos, vagy ahhoz hasonló
+     tevékenységet is végző (Alapító Okiratban felsorolt alap- és
+     kiegészítő tevékenységek) vagy az intézménnyel gazdasági
+     kapcsolatban álló gazdasági társaságban betöltött vezető
+     tisztségviselői, felügyelő bizottsági tagság.
+3. A magasabb vezető, valamint a vezető megbízással rendelkezők és
+   ezek közeli hozzátartozói nem tölthetnek be olyan intézményi
+   társaságban (egyetem által alapított vagy részvételével működő
+   gazdasági társaság) vezető tisztségviselői feladatot, nem lehetnek
+   tagjai a felügyelő bizottságnak, nem láthatnak el könyvvizsgálói
+   feladatot, amelyet a felsőoktatási intézmény hozott létre, illetve
+   amelyben részesedéssel rendelkezik.
+4. Az intézményben – a 2. b. ponttól eltérően és a 3. pontban előírt
+   korlátozás megtartása mellett – a magasabb vezető és a vezető
+   megbízásával nem összeférhetetlen a gazdasági társaságban betöltött
+   igazgatósági, felügyelő bizottsági tagság.
+5. A 2. b. pontjától eltérően a kutatás-fejlesztésről és a
+   technológiai innovációról szóló törvény szerinti költségvetési
+   kutatóhely által foglalkoztatott közalkalmazott a hasznosító
+   vállalkozásnak – a munkáltató előzetes írásbeli hozzájárulásával –
+   tagja vagy vezető tisztségviselője lehet, illetve azzal
+   munkavégzésre irányuló további jogviszonyt létesíthet.
+6. Az Egyetem a vele közalkalmazotti jogviszonyban álló
+   közalkalmazottal munkaköri feladatai ellátására munkavégzésre
+   irányuló további jogviszonyt nem létesíthet. Az Egyetemen oktatói,
+   kutatói, tanári munkakörben közalkalmazotti jogviszonnyal
+   rendelkező oktatóval az Egyetem más Karán oktatói, kutatói, tanári
+   munkakörben, munkavégzésre irányuló további közalkalmazotti
+   jogviszony nem létesíthető.
+7. Az Egyetem által fenntartott közoktatási intézmény – mint önálló
+   jogi személy – alkalmazottai létesíthetnek munkavégzésre irányuló
+   további jogviszonyt az Egyetem szervezeti egységeinél, amennyiben
+   az egyéb feltételeknek a foglalkoztatásuk megfelel.
+8. A munkaidőt érintő összeférhetetlenség esetei:
 a) amennyiben a közalkalmazott munkaideje a közalkalmazotti jogviszonyban és a
 munkavégzésre irányuló további jogviszonyban - részben vagy egészben - azonos időtartamra
 esik, munkavégzésre irányuló további jogviszony csak a munkáltatói jogkörű vezető előzetes
 írásbeli hozzájárulásával létesíthető. A hozzájárulás megtagadásával szemben munkaügyi
 jogvita nem kezdeményezhető;
 b) a közalkalmazott munkaidejét nem érintő munkavégzésre irányuló további jogviszony
-létesítését köteles a munkáltatói jogkörű vezetőnek előzetesen írásban bejelenteni, aki
-összeférhetetlenség esetén a további jogviszony létesítését megtiltja. Az Egyetemnek a
-munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen - ebben az
-esetben - munkaügyi jogvita kezdeményezhető.
-8. A közalkalmazott jogviszonyával a jogszabályban meghatározottakon túl
-összeférhetetlennek minősül:
+   létesítését – a tudományos, oktatói, m vészeti, lektori, szerkeszt i, valamint jogi oltalom alá
+    es szellemi tevékenység, továbbá a közérdek önkéntes tevékenység kivételével – 
+    köteles a munkáltatói jogkörű vezetőnek előzetesen írásban bejelenteni, aki
+    összeférhetetlenség esetén a további jogviszony létesítését megtiltja. Az Egyetemnek a
+    munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen – ebben az
+    esetben – munkaügyi jogvita kezdeményezhető.
+9. A közalkalmazott jogviszonyával a jogszabályban meghatározottakon túl
+   összeférhetetlennek minősül:
 - az olyan munkavégzésre irányuló további jogviszony, amelyben az Egyetem szolgálati
 (üzleti) titkait képező módszerek, eljárások, ismeretek (know-how) egyéni haszon érdekében
 történt alkalmazására kerülhet sor;
@@ -409,29 +427,44 @@ egyetemmel gazdasági kapcsolatban álló gazdasági társaságnál üzletvezet�
 végzett alaptevékenységek megegyeznek,
 - közalkalmazott részéről olyan tevékenység folytatása, amely sérti az Egyetem jó hírnevét és
 üzleti érdekét,
-9. Eljárási szabályok:
-A közalkalmazott a jogviszony létesítésekor köteles a mellékletben található
+10. Eljárási szabályok:
+A közalkalmazott a jogviszony, vezetői megbízás létesítésekor köteles a mellékletben található
 összeférhetetlenségi nyilatkozatot kitölteni. A közalkalmazott a jogviszony fennállása alatt 3
 napon belül köteles írásban bejelenteni a munkáltatói jogkör gyakorlójának, ha vele szemben
 törvényben, vagy a kollektív szerződésben meghatározott összeférhetetlenségi ok merül fel,
 illetve, ha a közalkalmazotti jogviszonyának fennállása alatt összeférhetetlenségi helyzetbe
 kerül, vagy az összeférhetetlenségi nyilatkozat tartalmában bármilyen változás adódik.
 
-Az összeférhetetlenségi nyilatkozat kitöltése a jogviszony létesítésének feltétele. Az
+Az összeférhetetlenségi nyilatkozat kitöltése a közalkalmazotti
+jogviszony, vezetői megbízás létesítésének feltétele. Az
 összeférhetetlenségi nyilatkozatban közöltek tartalmáért a közalkalmazott fegyelmi
 felelősséggel tartozik.
-Az összeférhetetlenséget a munkáltatói jogkör gyakorlója köteles kivizsgálni és az
-összeférhetetlenség fennállása esetén a közalkalmazottat az összeférhetetlenségi helyzet 8
-napon belüli megszüntetésére írásban felszólítani.
-A felszólítás eredménytelen volta esetén a munkáltatói jogkörű vezető a közalkalmazottat az
-összeférhetetlenségi helyzet megszüntetéséig írásban eltilthatja a munkavégzés alól. Az eltiltás
-időtartama alatt a közalkalmazotti jogviszony szünetel. Ha ez nem vezet eredményre, a
-munkáltató a közalkalmazott ellen fegyelmi eljárást indíthat, vagy kezdeményezheti a
-jogviszony felmentéssel való megszüntetését.
+
+Az összeférhetetlenséget a munkáltatói jogkör gyakorlója köteles
+kivizsgálni és az összeférhetetlenség fennállása, illetőleg az
+összeférhetetlenségről való tudomásszerzéstől számított öt munkanapon
+belül a közalkalmazottat az összeférhetetlenség megszüntetésére
+írásban felszólítani.
+
+Ha a közalkalmazott a 7.b. pont szerinti megtiltás, illetőleg a
+munkáltatói felszólítás kézhezvételét követ harminc napon belül az
+összeférhetetlenséget nem szünteti meg, a közalkalmazotti jogviszonyt
+az Mt. 10. § (1) bekezdés alapján azonnali hatállyal meg kell
+szüntetni.
+
+Ha az összeférhetetlenség a magasabb vezetői, vezetői megbízással
+összefüggésben áll fenn, és az összeférhetetlenséget a munkáltató
+tudomásszerzését követő felszólítás kézhezvételétől számított harminc
+napon belül a közalkalmazott nem szünteti meg, a munkáltató köteles a
+magasabb vezető, illetve vezető megbízást az Mt. 10. § (1)
+bekezdésének megfelelő alkalmazásával visszavonni.
+
 A munkavégzésre irányuló további jogviszony nyilvántartásáról a munkáltatói jogkör gyakorlójának kell gondoskodnia. A nyilvántartás egyik példányát a Gazdasági Főigazgatóságra
 meg kell küldeni, szükség szerint aktualizálni (összeférhetetlenségi vizsgálat miatt).
+
 Az összeférhetetlenségi nyilatkozat mintáját a KSZ. 5. sz. melléklete tartalmazza.
-10. Hatálybalépés:
+
+11. Hatálybalépés:
 A kollektív szerződés jelen módosítása a hatálybalépésétől (2009. október. 7.) számítottan új
 munkakör, vagy vezetői, magasabb vezetői megbízást betöltése esetén alkalmazandó.
 *** 4.8. A fegyelmi felelősség
@@ -472,7 +505,7 @@ A megbízott magasabb vezető és vezető vezetői megbízásából fakadó fela
 munkaidőben látja el.
 Az étkezés munkaidőn belül biztosított, a rendelkezésre álló munkaközi szünet 30 perc.
 *** 5.2. Szabadság és annak kiadása
-Kjt. 16. §, 56-58/A. §; Mt. 130. §, 132. § (1)-(3) és (7), 133-140. §
+Kjt. 16. §, 56-58 §; Mt. 130. §, 132. § (1)-(3) és (7), 133-140. §
 Az oktató, kutató és tanári munkakörben foglalkoztatott közalkalmazottak szabadságát
 elsősorban július és augusztus hónapban, továbbá a téli és tavaszi szünetben, a
 vizsgaidőszakban (amennyiben az oktatónak nincsenek vizsgáztatási feladatai) kell kiadni.
@@ -630,7 +663,7 @@ A 6.8.pont rendelkezései és a 4. sz. melléklet 2009. október 7. napjától a
 Törzsgárda jutalomra jogosult minden közalkalmazott, akinek a közalkalmazotti jogviszonya
 a Nyugat-magyarországi Egyetemen vagy annak jogelőd intézményeinél 20, 25, 30, 35, 40
 éve fennáll.
-Az összeg 15.000.-Ft, amely – munkáltatói jogkörű vezető döntése alapján - jutalom
+Az összeg 15.000.-Ft, amely – munkáltatói jogkörű vezető döntése alapján – jutalom
 jogcímen vagy adómentes juttatásként fizethető ki.
 A törzsgárda jutalom/juttatás évente egy alkalommal állapítható meg kivéve öregségi,
 előrehozott öregségi nyugdíjazás esetén. Öregségi, előrehozott öregségi nyugdíjazás esetén az
@@ -709,9 +742,13 @@ Az Egyetem a közalkalmazottai részére étkezési hozzájárulást biztosítha
 hozzájárulás a közalkalmazotti jogviszonyban álló dolgozónak, az Egyetem további
 jogviszonyú közalkalmazottja, valamint bevételi, pályázati pénzforrás terhére foglalkoztatott
 részére is jár, a havi illetményével egyidejűleg.
+
 Nem jár étkezési hozzájárulás a 30 napot meghaladó:
 - keresőképtelenség idejére - beleértve a szülési szabadság idejét is - a 31. naptól,
-- tényleges munkavégzés alóli mentesítési idejére a 31. naptól.
+- tényleges munkavégzés alóli mentesítési idejére, ideértve a
+  prémiumévek programban részt vevők esetében való munkavégzés alóli
+  mentesítést is, a 31. naptól.
+
 Nem jár étkezési hozzájárulás az első naptól:
 - GYED, GYES miatt igénybevett fizetés nélküli szabadság idejére,
 - külföldi munkavállalásra,
@@ -720,10 +757,13 @@ Nem jár étkezési hozzájárulás az első naptól:
 - közeli hozzátartozó ápolása miatt engedélyezett fizetés nélküli szabadság idejére,
 - igazolatlan távollét idejére.
 Nem jár étkezési hozzájárulás a 87 óránál rövidebb munkaidőben foglalkoztatottnak.
+
 Az étkezési hozzájárulás éves mértékét a KSZ 7. sz. melléklete tartalmazza.
+
 *** 7.4. Üdültetési támogatás
 Az Egyetem saját kollégiumai és egyéb szálláshelyei révén támogathatja az intézményben
 foglalkoztatottak és családtagjaik üdülését.
+
 *** 7.5. Munkaruha juttatás
 Kjt. 79. §
 Ha a munkavégzés a ruházat nagymértékű szennyeződésével vagy elhasználódásával jár, az
@@ -1020,7 +1060,7 @@ Tudományos Dolgozók Demokratikus Szakszervezete (TDDSZ)
 TDDSZ
 
 
-* Záradék
+* I. Záradék
 A Kollektív Szerződés 3.2., 4.7., 5.1., 5.2., 6.2., 6.5. és 6.8. pontjait, valamint 2., 4., 5., és 8.
 sz. mellékletét a Szerződő Felek 2009. október 7. napján módosították.
 
@@ -1055,6 +1095,43 @@ AOKDSZ
 Tudományos Dolgozók Demokratikus Szakszervezete (TDDSZ)
 …………………………..
 TDDSZ
+
+* II. Záradék
+A Kollektív Szerződés 7. sz. mellékletének 7.1. és 7.3. pontját a Szerződő Felek 2009.
+december 9. napján módosították.
+
+Jelen dokumentum egységes szerkezetben tartalmazza a Kollektív Szerződés módosított,
+2010. január 1. napjától hatályos szövegét.
+
+Sopron, 2009. december 9.
+
+A munkáltató Nyugat-magyarországi Egyetem részéről:
+…………………………
+rektor
+
+A szakszervezetek képviselői részéről:
+Felsőoktatási Dolgozók Szakszervezete (FDSZ)
+
+…………………………..
+
+* III. Záradék
+A Kollektív Szerződés 4.7. pontját, valamint 6. sz. mellékletét a Szerződő Felek 2010. február
+25. napján módosították.
+Jelen dokumentum egységes szerkezetben tartalmazza a Kollektív Szerződés módosított,
+2010. február 25. napjától hatályos szövegét.
+
+Sopron, 2010. február 25.
+
+A munkáltató Nyugat-magyarországi Egyetem részér l:
+…………………………
+rektor
+
+A szakszervezetek képviselői részéről:
+Felsőoktatási Dolgozók Szakszervezete (FDSZ)
+
+…………………………..
+FDSZ titkár
+
 
 
 * MELLÉKLETEK
