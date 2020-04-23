@@ -1,0 +1,2859 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:nil broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: NYUGAT-MAGYARORSZÁGI EGYETEM KOLLEKTÍV SZERZŐDÉS SOPRON
+#+DATE: 2010
+#+AUTHOR: Kalicz Péter
+#+EMAIL: kaliczp@barackalma.t.hu
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.9)
+
+* Preambulum
+
+Jelen Kollektív Szerződés (a továbbiakban: KSZ) a Nyugat-magyarországi
+Egyetem (a továbbiakban: Egyetem) mint munkáltató, másrészről a
+közalkalmazotti munkavállalók nevében – kivéve gyakorló intézmények
+közalkalmazottai – a Nyugat-magyarországi Egyetem Felsőoktatási
+Dolgozók Szakszervezete, Agrár Oktatási és Kutatási Dolgozók
+Szakszervezet és a Tudományos Dolgozók Demokratikus Szakszervezete (a
+továbbiakban: szakszervezet) között lefolytatott tárgyalás
+eredményeképpen jött létre.
+
+A KSZ célja, hogy a közalkalmazottak jogait és kötelezettségeit, azok
+gyakorlásának és teljesítésének módját, a kapcsolódó eljárási
+szabályokat, valamint a szerződést kötő felek kapcsolatrendszerét
+szabályozza a jogszabályok adta keretek között.
+
+* I. rész Bevezetés
+** 1. Bevezető rendelkezések
+Kjt. 2. §, 8. §; Mt. 13. §
+A KSZ az alábbi jogszabályok:
+
+- a munka törvénykönyvéről szóló 1992. évi XXII. törvény (Mt.),
+  amennyiben az alkalmazását a közalkalmazottak jogállásáról szóló
+  tv. nem tiltja,
+- a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény
+  (Kjt.),
+- a felsőoktatásról szóló 2005. évi CXXXIX. törvény (Ftv.),
+- a Kjt. felsőoktatásban történő végrehajtásáról és a felsőoktatási
+  intézményekben történő foglalkoztatás egyes kérdéseiről
+  53/2006. Korm. rendelet,
+- a Kjt. végrehajtásáról a művészeti, közművelődési és közgyűjteményi
+  területen foglalkoztatott közalkalmazottak jogviszonyával összefüggő
+  egyes kérdések rendezésére;
+
+valamint a Nyugat-magyarországi Egyetem Szervezeti és Működési
+Szabályzatában foglaltak figyelembe vételével készült.
+
+A KSZ a munkaviszonyra vonatkozó bármely kérdésről rendelkezhet, de
+jogszabályokkal ellentétes rendelkezést nem tartalmazhat. A KSZ az
+Mt. III. fejezetében meghatározott szabályoktól, amennyiben azt a
+törvény nem tiltja, a közalkalmazott javára eltérhet. Minden, ezen
+szabállyal ellentétes KSZ rendelkezés semmis.
+
+** 2. A KSZ hatálya
+
+Kjt. 12. §; Mt. 36. §, 38. §
+
+A KSZ személyi hatálya kiterjed – gyakorló intézmények
+közalkalmazottainak kivételével – az Egyetemre mint munkáltatóra és a
+vele közalkalmazotti jogviszonyban álló valamennyi személyre, tekintet
+nélkül arra, hogy a közalkalmazott tagja-e a szerződést kötő
+valamelyik Szakszervezetnek.
+
+A kollektív szerződést a szerződő felek határozatlan időre kötik meg.
+
+** 3. A KSZ módosítása, felmondása és megszűnése
+Mt. 37. §, 39-40/A. §
+A KSZ módosítását a szerződő felek bármelyike kezdeményezheti a másik félnél írásban, de
+az csak megegyezés alapján módosítható.
+A KSZ-t bármelyik szerződő fél 3 hónapos felmondási idővel felmondhatja, de ezt a jogot a
+szerződés megkötésétől számított 6 hónapon belül egyik fél sem gyakorolhatja. A felmondási
+idő lejártával a KSZ megszűnik.
+Az Egyetem, illetve a Szakszervezet jogutód nélküli megszűnésével a KSZ hatályát veszti.
+Bármelyik szerződő fél jogutóddal történő megszűnése a KSZ hatályát közvetlenül nem érinti.
+A szerződő felek szükség esetén értékelik és egyeztetés után végrehajtják a jogszabályi
+változások vagy egyéb ok miatt szükséges módosításokat.
+A módosítással kapcsolatos vitát a kollektív munkaügyi vitára irányadó szabályok szerint kell
+elbírálni.
+
+** 4. A KSZ hatályosulása
+A szerződő felek vállalják, hogy haladéktalanul a másik fél képviselőinek tudomására hozzák,
+ha a KSZ végrehajtását illetően nehézségek merülnek fel, továbbá saját hatáskörükben
+intézkednek, ha a KSZ szabályaiba ütköző vagy céljával ellentétes gyakorlat folytatását,
+intézkedés meghozatalát tapasztalják saját szerveik vagy tisztségviselőik részéről.
+
+* II. rész Munkaügyi kapcsolatok
+** 1. Az Egyetem és a Szakszervezet kapcsolata, együttműködése
+Kjt. 4-5. §, 8-10. §; Mt. 3. § (2), 14-15. §, 18-19. §, 19/A. §, 21-28. §, 29. § (1)
+*** 1.1. Az Egyetem és a Szakszervezet együttműködése
+Az Egyetem kinyilvánítja, hogy együttműködik a Szakszervezettel, tevékenységét támogatja,
+működésüket elősegíti.
+A Szakszervezet kijelenti, hogy az Mt.-ben és a Kjt.-ben, valamint a KSZ-ben biztosított
+jogosultságaikat a jogok társadalmi rendeltetésének megfelelően gyakorolják, a
+közalkalmazottak érdekében kifejtett tevékenységük nem irányulhat az Egyetem
+rendeltetésszerű működésének megzavarására, akadályozására, csak a közalkalmazotti
+érdekek érvényesítésére.
+
+*** 1.2. A Szakszervezet működési feltételeinek biztosítása
+Az Egyetem a közalkalmazottak javára végzett szakszervezeti munkát a következők szerint
+támogatja:
+- az Egyetem a Szakszervezet érdekvédelmi tevékenységéhez munkaidőben és munkaidőn
+kívül – az egyetemi igénybevételi rend keretei között – biztosítja az egyetemi helyiségek
+térítésmentes használatát;
+- biztosítja a közlemények, felhívások, tájékoztatók céljára az egyetemi információs
+csatornák (egyetemi újság, elektromos hirdetőtábla, posta, telefon, fax, internet,
+hirdetőtábla) térítésmentes használatát;
+- a Szakszervezet megfelelő működéséhez szükséges további egyéb feltételeket (pl.: irodaszer) igény szerint biztosítja.
+*** 1.3. A szakszervezeti tisztségviselőket megillető védelem
+A Szakszervezet választott tisztségviselője közalkalmazotti jogviszonyának felmentéssel való
+megszüntetése a közvetlen felsőbb szakszervezeti szerv egyetértésével lehetséges. A
+Szakszervezet vállalja, hogy a tisztségviselők névsorát, illetve a változásokat az Egyetem
+illetékes munkáltatói jogkörű vezetőjének, továbbá a főtitkárnak, és a gazdasági
+főigazgatóságnak a rendelkezésére bocsátja.
+*** 1.4. A szakszervezeti tisztségviselők munkaidő-kedvezménye
+A választott tisztségviselőt az Mt.-ben meghatározott munkaidő-kedvezmény illeti meg,
+melynek időtartamára távolléti díj jár.
+
+** 2. Közalkalmazotti Tanács
+Kjt. 17-18. §; Mt. 43. §. (4)-(5), 45-49. §, 50. §. (2), 52. §, 53. § (1)-(2), 54-57. § (1) és (3)(4), 58-64. § (1)-(3), 66-70. §
+A Közalkalmazotti Tanács működéséről az Egyetemi Szervezeti és Működési Szabályzatának
+mellékletét képező Közalkalmazotti Tanács Ügyrendje rendelkezik
+
+** 3. Érdekegyeztető Tanács
+Kjt. 4-7. §
+Az Egyetem annak érdekében, hogy a közalkalmazottak munkaviszonyával, élet és
+munkakörülményeivel kapcsolatos döntései meghozatalában a közalkalmazottak
+közösségének és érdekvédelmi szerveinek jogszabályokban és belső szabályzatokban
+meghatározott együttdöntési, egyetértési és véleményezési jogát teljes körű
+érdekegyeztetéssel rendszeresen és folyamatosan biztosítsa, Érdekegyeztető Tanácsot
+működtet.
+
+Az Érdekegyeztető Tanács jogállásáról, összetételéről, feladatáról, hatásköréről és
+működéséről az Érdekegyeztető Tanács Ügyrendje rendelkezik.
+
+
+A KSZ-t megkötő felek – mint az Érdekegyeztető Tanács tagjai – megállapodnak abban, hogy
+az Érdekegyeztető Tanács feladat illetve hatáskörébe utalják, különösen:
+a) a KSZ szövegének aláírás előtti végleges egyeztetését;
+b) az illetményemelésre fordítható pénzügyi keretek munkáltatói szintek (szervezeti
+egységek) közötti felosztását;
+c) a rendkívüli fizetett szabadság alapelveinek meghatározását;
+d) a kollektív munkaügyi vita első egyeztetését;
+e) a költségvetési javaslatnak, illetve a költségvetés felhasználásának a
+közalkalmazottak élet- és munkakörülményeit érintő tételei meghatározását;
+f) a szociális alapok felosztási elveinek meghatározását;
+g) a jóléti intézmények létesítése és megszüntetése ügyében döntést, illetve ez
+intézmények működtetésének szabályozását.
+
+* III. rész A közalkalmazotti jogviszony
+** 1. A közalkalmazotti jogviszony alanyai
+Kjt. 20. §, 85. § (7); Mt. 72.-75/A. §
+A közalkalmazotti jogviszony alanyai az Egyetem, mint munkáltató és a közalkalmazott, mint
+munkavállaló. A munkáltató nevében munkáltatói jogokat a rektor gyakorolja a
+Foglalkoztatási Követelményrendszerben meghatározottak szerint.
+
+** 2. A közalkalmazotti jogviszony létesítése, módosítása
+Kjt. 20-23. §; Mt. 5. §, 75/A. §, 76. § (3) és (7)-(8), 76/A-78/A. §, 79. § (2)-(3) és (5)-(6), 8085/A. § (1)-(4), 85/B. §
+*** 2.1. Részmunkaidős foglalkoztatás
+Részmunkaidős foglalkoztatás esetén a közalkalmazotti jogviszony alapján közvetlenül vagy
+közvetve nyújtott pénzbeli vagy természetbeni munkavállalói juttatás tekintetében legalább az
+időarányosság elve alkalmazható, ha a juttatásra való jogosultság a munkaidő mértékével
+összefügg.
+*** 2.2. A kinevezés alakszerűsége
+A közalkalmazotti jogviszony létesítésekor a kinevezési okmánynak tartalmaznia kell:
+a) a kinevezéssel kapcsolatos alapvető feltételeket:
+aa) a kinevezés hatályát (kezdő időpontját),
+ab) a közalkalmazotti jogviszony határozatlan vagy határozott időre vonatkozó
+létesítését (utóbbi esetben ennek időtartamát),
+ac) az ellátandó munkakört és beosztást,
+ad) részmunkaidőben történő alkalmazás esetén annak mértékét és a munkaidőbeosztás szabályait,
+ae) a munkavégzés helyét, több képzési hely (kari, illetve szervezeti egység) esetén a
+változó munkahelyre történő alkalmazás feltételeit,
+af) a megállapodás szerinti próbaidő tartamát, továbbá egyéb megegyezés szerinti
+feltételeket;
+- az alkalmazás költségeinek forrását,
+- a vezető megnevezését, beosztását, akinek közvetlen irányításával végzi a
+közalkalmazott munkáját,
+- a munkaidőt és annak szabályait,
+- esetleges szakmai követelményekre vonatkozó megállapodást,
+- azon foglalkoztatási feltételeket, amit a felek fontosnak tartanak,
+- szerződéskötés dátumát, a szerződő felek aláírását.
+a közalkalmazotti jogviszonyban töltött idő megállapítását;
+a közalkalmazott Kjt. szerinti besorolását;
+a munkaköri besorolás szerint járó illetmény és illetménypótlék(ok) megállapítását;
+a jogorvoslat lehetőségére történő felhívást.
+A kinevezéssel egyidejűleg a munkáltató a közalkalmazottat tájékoztatja:
+- az irányadó munkarendről,
+- a munkabér egyéb elemeiről,
+- a bérfizetés napjáról,
+- a munkába lépés napjáról,
+- a rendes szabadság mértékének számítási módjáról és kiadásának, illetve a munkáltatóra
+és a közalkalmazottra irányadó felmentési idő megállapításának szabályairól, valamint
+arról, hogy a munkáltató Kollektív Szerződés hatálya alá tartozik-e.
+Az előírt tájékoztatást a kinevezést követő 30 napon belül köteles átadni a közalkalmazott
+részére. Ez a tájékoztatás a Kollektív Szerződésre való hivatkozással is biztosítható.
+A kinevezést a munkáltatói jogkör gyakorlója és a közalkalmazott írja alá.
+A kinevezéshez mellékelni kell a közalkalmazott feladatait részletező munkaköri leírást,
+melyet a munkáltató nevében a szervezeti egység vezetője készít el, valamint további
+jogviszony esetén a bejelentési nyilatkozatot is.
+Az Egyetem által alkalmazott kinevezések mintáit a KSZ 1. sz. melléklete, a munkaköri leírás
+mintáját a KSZ 3. sz. melléklete tartalmazza.
+*** 2.3. A közalkalmazotti jogviszonnyal kapcsolatos írásbeli nyilatkozatok
+a) Az Egyetemnek írásba kell foglalnia az alábbiakat:
+- a munkakörbe nem tartozó munkavégzés elrendelését és díjazásának feltételeit (pl.: belső
+helyettesítés),
+- az Egyetem intézményén belüli más munkakörbe történő beosztást (átirányítást), amely
+nem haladhatja meg naptári évenként a 44 napot, illetve összeszámítva az Mt. 105. §,
+106. § és a 150. § (1) szakaszain alapuló intézkedések időtartamát, a 110 munkanapot,
+- az állandó munkahelyen kívüli és
+- más munkáltatónál történő munkavégzés elrendelését,
+- a túlmunka, a készenlét és az ügyelet elrendelését,
+- a pihenőnapon és munkaszüneti napon történő munkavégzés elrendelését, kivéve a
+folytonos üzemű munkahelyeken (pl. porta szolgálat),
+- minden olyan munkavégzés elrendelését, amelynek teljesítéséért a felek anyagi
+juttatásban állapodnak meg, illetve amelyért az Egyetem díjazást, juttatást biztosít,
+- az Egyetem valamennyi nyilatkozatát a közalkalmazott kérésére vagy jogszabály előírása
+alapján.
+
+b) A közalkalmazottnak írásba kell foglalnia az alábbi fontosabb nyilatkozatokat:
+- összeférhetetlenségi nyilatkozatot (KSZ 5. sz. melléklet),
+- az egyetemi tulajdonú eszközök kölcsönzésére vonatkozó kérelmet,
+- a közalkalmazott jogviszonya megszüntetésére irányuló bejelentését, illetve kérelmét,
+melyet azonban nem köteles indokolni.
+*** 2.4. Külföldi állampolgárok foglalkoztatása
+8/1999.(XI. 10.) SzCsM rendelet
+Külföldi állampolgár a jogszabályban foglaltak alapján – a kivételektől eltekintve – csak
+engedély alapján foglalkozatható.
+A foglalkoztatás engedélyeztetését, valamint az eljárás ügyrendjét részleteiben a fent
+hivatkozott jogszabály határozza meg, amelynek betartása, illetve betartatása - különösen az
+engedélyeztetési határidőkre vonatkozóan – valamennyi külföldi munkavállalót foglalkoztató
+munkáltatói jogkörű vezető felelőssége.
+
+** 3. A közalkalmazotti jogviszony megszűnése ill. megszüntetése
+Kjt. 25-38/A. §; Mt. 86/B-86/D. §, 87. § (2)-(3), 89. § (7), 90. §, 93. § (3)-(4), 94. §, 97. §, 98.
+§ (2)-(4)
+*** 3.1. A jogviszony megszűnésének esetei
+A közalkalmazotti jogviszony a Kjt. 25. § (1) bekezdés a)-e) pontjai szerint szűnik meg és a
+Kjt. 25. § (2) bekezdés a)-h) pontjai szerint szüntethető meg.
+*** 3.2. Felmentés
+A felmentést megelőzően a közalkalmazottal nyugellátási jogosultságának megszerzése előtt
+1 évvel a munkáltatói jogkör gyakorlója megbeszélést kezdeményez. Ennek során
+kölcsönösen tájékoztatják egymást a jogviszonyt érintő további elképzeléseikről.
+Ha a közalkalmazott felmentésének indoka a közalkalmazott munkavégzésével vagy
+magatartásával összefüggésben a munkaköri feladatainak ellátására való tartós
+alkalmatlansága, vagy nem megfelelő munkavégzése, a felmentés előtt lehetőséget kell adni
+számára a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes
+körülményeiből következően ez a munkáltatótól nem várható el. Ennek megfelelően az
+Egyetem a felmentés előtt legalább 10 nappal korábban köteles a közalkalmazottal írásban
+közölni a kifogásait. A közalkalmazott a közöléstől számított 8 napon belül védekezést
+terjeszthet elő. A felmentési eljárásban a Szakszervezet képviselheti tagját.
+Felmentés esetén a felmentési idő legalább 60 nap, de a 8 hónapot nem haladhatja meg. A
+felmentési idő
+a) öt évet el nem érő jogviszony esetén 60 nap + 1 hónap;
+b) öt év után 60 nap + 2 hónap;
+c) tíz év után 60 nap + 3 hónap;
+d) tizenöt év után 60 nap + 4 hónap;
+e) húsz év után 60 nap + 5 hónap;
+f) huszonöt év után 60 nap + 6 hónap;
+g) harminc év után 60 nap + 6 hónap.
+
+
+*** 3.3. Korengedményes nyugdíjazás
+181/1996. (XII. 6.) Korm. rendelet
+Intézményi érdek esetén, amennyiben forrás biztosítható, a munkáltatói jogkört gyakorló
+vezető a közalkalmazottal megállapodhat korengedményes nyugdíjazásról.
+
+*** 3.4. Prémiumévek program
+2004. évi CXXII. tv.; Kjt. 25. § (1) bekezdés e) pont
+
+** 4. A munkavégzés szabályai
+Kjt. 39-44. §, 54. §; Mt. 83/A, 102-106. §, 107. §, 110-116. §, 129/A.§
+*** 4.1. A jelenlét igazolása
+Az Egyetem szervezeti egységeinél a közalkalmazottnak a munkahelyén való megjelenését,
+illetve a munkahelyről való távolmaradást (szabadság, betegség stb.) jelenléti íven kell
+vezetni, nyilvántartani, feltüntetve a munkahelyen való megjelenés és távozás időpontját is.
+*** 4.2. Munkakörön és szokásos munkavégzési helyen kívüli munkavégzés
+Mt. 83/A. §, 105-106. §
+Az átirányítás és helyettesítés alapján történő munkavégzés időtartama nem haladhatja meg
+naptári évenként a 44 munkanapot. Egy naptári éven belül az átirányítás, helyettesítés,
+kiküldetés, kirendelés és a más munkáltatónál történő munkavégzés együttes időtartama a
+110 munkanapot nem haladhatja meg.
+*** 4.3. Munkaköri leírás
+A szervezeti egység vezetője köteles az irányítása alá tartozó valamennyi közalkalmazott
+részére a munkaköri leírást elkészíteni, melyet a munkáltatói jogkörű vezető hagy jóvá. A
+munkaköri leírásban foglaltak tudomásulvételét a közalkalmazott aláírásával igazolja és
+részére egy példányt át kell adni. A munkaköri lírás mintája a KSZ 3. sz. melléklete
+tartalmazza.
+*** 4.4. Képzés, továbbképzés, tanulmányi szerződés
+Mt. 110-116. §
+Az Egyetem szakember utánpótlásának biztosítása és fejlesztése érdekében – a jogszabályok
+és a költségvetési lehetőségek keretei között - támogatja a vele közalkalmazotti
+jogviszonyban álló közalkalmazottak szakmai, tudományos, idegen nyelvi képzését,
+továbbtanulását, tovább-képzését és átképzését.
+
+A közalkalmazottat csak munkakörének és beosztásának megfelelő továbbképzésre lehet
+kötelezni.
+A közalkalmazott köteles a munkáltató által kijelölt tanfolyamon, továbbképzésen részt
+venni és a vizsgákat letenni, kivéve, ha ez a személyi és családi körülményeire tekintettel, reá
+aránytalanul sérelmes. Ilyen aránytalan sérelemnek minősül és a közalkalmazott kizárólagos
+hozzájárulásával kötelezhető vizsga letételével járó továbbképzésen való részvételre:
+a) az, akinek öregségi nyugdíjra való jogosultsága megszerzéséig kevesebb mint 5 év van
+hátra,
+b) a terhes nő,
+c) az anya, aki 1 évesnél fiatalabb gyermeket nevel,
+d) az, aki 2 vagy több 16 évesnél fiatalabb gyermeket nevel és az Mt. alapján ezért
+pótszabadságra jogosult.
+Az Egyetem elősegíti a közalkalmazott munkakörével összefüggő képzésben, illetve
+továbbképzésben való részvételét.
+Tanulmányi szerződés csak abban az esetben köthető, amennyiben azt az Egyetem érdeke
+indokolja, és az álláshely betöltése szakképzett személlyel nem biztosítható.
+Tanulmányi szerződést a munkáltató nevében csak a munkáltatói jogkörű vezető köthet. A
+támogatás mértékét – a pénzügyi lehetőségek függvényében – a munkáltatói jogkörű vezető
+határozza meg. A közalkalmazottat vizsgánként négy munkanap szabadidő illeti meg,
+amelyből két napra távolléti díj jár, a másik két nap nem fizetett igazolt távollét.
+Diplomamunka elkészítéséhez tíz munkanap szabadidő jár, távolléti díj mind a tíz
+munkanapra fizetendő. A vizsga napja a munkaidő kedvezménybe beszámít.
+Amennyiben a munkáltató a munkakör betöltéséhez szükséges képzettségen felül
+továbbképzésre kötelezi a közalkalmazottat, továbbá jogszabály időszakonként továbbképzést
+rendel el, nem köthető tanulmányi szerződés és a költségeket a munkáltató köteles fedezni.
+*** 4.5. Fizetés nélküli szabadság, kiküldetés, külföldi ösztöndíj
+Mt. 107. §, 137-140. §
+A közalkalmazott írásbeli kérelmére, méltányolható egyéni és családi körülményeire
+tekintettel a munkáltatói jogkör gyakorlója engedélyezhet fizetés nélküli szabadságot.
+A három hónapnál rövidebb, az Egyetem által jóváhagyott külföldi kiküldetés munkában
+töltött időnek számít. Ennek időtartamára a közalkalmazott mentesül a munkahelyén
+végzendő feladatok alól. Erre az időre a közalkalmazottat havi alapilletménye és pótlékai – a
+vezetői és veszélyességi pótlékok kivételével – illeti meg.
+Három hónapot meghaladó, de egy évnél rövidebb időtartamú, az Egyetem által jóváhagyott
+külföldi kiküldetés esetén a munkavégzés helyének a külföldi intézmény minősül. A
+kiküldetés idejére a közalkalmazott kinevezését ideiglenesen módosítani kell. Ennek alapján
+részére havi alapilletményének és pótlékainak (vezető és veszélyességi pótlék kivételével) 50
+%-a folyósítható.
+Egy évet meghaladó külföldi kiküldetés esetén a közalkalmazott nem jogosult díjazásra.
+
+Ha a közalkalmazott az Egyetem támogatásával állam- és kormányközi egyezmény, magyar
+állami ösztöndíj, illetve nemzetközi szervezet vagy más külföldi szerv által biztosított
+keretből három hónapot meg nem haladó időtartamú ösztöndíjas tanulmányúton vesz részt,
+részére havi alapilletményét és pótlékait (vezetői és veszélyességi pótlék kivételével) kell
+megállapítani.
+A 3-12 hónap időtartamú ösztöndíjas tanulmányút esetén havi alapilletményének és
+pótlékainak (kivéve a vezetői- és a veszélyességi pótlékot) 50 %-a folyósítható.
+Az egy évet meghaladó ösztöndíjas tanulmányút esetén a közalkalmazott nem jogosult
+díjazásra.
+
+*** 4.6. Véradás
+Mentesül a közalkalmazott a munkavégzési kötelezettség alól a véradás napján. Ezen
+túlmenően évente két vagy több véradás esetén egy nap szabadság jár, amelyet igazolni kell a
+véradó igazolvánnyal, vagy egyéb, a Véradó Állomás által kiállított igazolással.
+
+*** 4.7. Összeférhetetlenség a közalkalmazotti jogviszonyban; a munkavégzésre irányuló további jogviszony
+Kjt. 41-44. §; Ftv. 81/A. §, 121. § (8) bekezdés
+
+Jelen fejezet alkalmazása szempontjából munkavégzésre irányuló további jogviszony minden
+olyan jogviszony, amelyet a közalkalmazott közalkalmazotti jogviszonya mellett munkavégzés
+céljából létesít: munkaviszony (közalkalmazotti, köztisztviselői, szolgálati, stb. jogviszony)
+vállalkozás, megbízás, munkavégzéssel járó tagsági viszony.
+
+1. A közalkalmazott nem létesíthet munkavégzésre irányuló további jogviszonyt, ha az a közalkalmazotti jogviszony alapján betöltött munkakörével összeférhetetlen.
+2. A magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállalásra jogosult
+közalkalmazott munkakörével, vezető megbízásával összeférhetetlen, ha közeli
+hozzátartozójával [Mt. 139. § (2) bekezdés] irányítási (felügyeleti), ellenőrzési vagy
+elszámolási kapcsolatba kerülne.
+3. A magasabb vezető és vezető nem lehet vezető tisztségviselője a munkáltató tevékenységével
+azonos tevékenységet (Alapító Okiratban felsorolt alap- és kiegészítő tevékenységek) folytató
+vagy az intézménnyel gazdasági kapcsolatban álló gazdasági társaságnak.
+4. A magasabb vezető, valamint a vezető megbízással rendelkezők és ezek közeli hozzátartozói
+nem tölthetnek be olyan intézményi társaságban (egyetem által alapított vagy részvételével
+működő gazdasági társaság) vezető tisztségviselői feladatot, nem lehetnek tagjai a felügyelő
+bizottságnak, nem láthatnak el könyvvizsgálói feladatot, amelyet a felsőoktatási intézmény
+hozott létre, illetve amelyben részesedéssel rendelkezik.
+5. Az Egyetem a vele közalkalmazotti jogviszonyban álló közalkalmazottal munkaköri
+feladatai ellátására munkavégzésre irányuló további jogviszonyt nem létesíthet. Az Egyetemen
+oktatói, kutatói, tanári munkakörben közalkalmazotti jogviszonnyal rendelkező oktatóval az
+
+Egyetem más Karán oktatói, kutatói, tanári munkakörben, munkavégzésre irányuló további
+közalkalmazotti jogviszony nem létesíthető.
+6. Az Egyetem által fenntartott közoktatási intézmény – mint önálló jogi személy –
+alkalmazottai létesíthetnek munkavégzésre irányuló további jogviszonyt az Egyetem szervezeti
+egységeinél, amennyiben az egyéb feltételeknek a foglalkoztatásuk megfelel.
+7. A munkaidőt érintő összeférhetetlenség esetei:
+a) amennyiben a közalkalmazott munkaideje a közalkalmazotti jogviszonyban és a
+munkavégzésre irányuló további jogviszonyban - részben vagy egészben - azonos időtartamra
+esik, munkavégzésre irányuló további jogviszony csak a munkáltatói jogkörű vezető előzetes
+írásbeli hozzájárulásával létesíthető. A hozzájárulás megtagadásával szemben munkaügyi
+jogvita nem kezdeményezhető;
+b) a közalkalmazott munkaidejét nem érintő munkavégzésre irányuló további jogviszony
+létesítését köteles a munkáltatói jogkörű vezetőnek előzetesen írásban bejelenteni, aki
+összeférhetetlenség esetén a további jogviszony létesítését megtiltja. Az Egyetemnek a
+munkavégzésre irányuló további jogviszony létesítését megtiltó intézkedése ellen - ebben az
+esetben - munkaügyi jogvita kezdeményezhető.
+8. A közalkalmazott jogviszonyával a jogszabályban meghatározottakon túl
+összeférhetetlennek minősül:
+- az olyan munkavégzésre irányuló további jogviszony, amelyben az Egyetem szolgálati
+(üzleti) titkait képező módszerek, eljárások, ismeretek (know-how) egyéni haszon érdekében
+történt alkalmazására kerülhet sor;
+- Egyetemi oktató, kutató, tanár részéről magánszemélyként vagy gazdasági társaság
+tagjaként ellenszolgáltatásért az általa oktatott hallgatóinak vizsgára és egyéb számonkérésre
+való felkészítése,
+-közalkalmazottnak az intézmény hallgatóival bármiféle kereskedelmi tevékenység folytatása,
+- hallgató igénybevétele bármilyen otthoni (magán), a közalkalmazotti jogviszonytól független
+munkára,
+- a közalkalmazott munkakörével összeférhetetlen minden olyan további jogviszony, melyet az
+egyetemmel gazdasági kapcsolatban álló gazdasági társaságnál üzletvezetésre jogosult tagi,
+ügyvezetői jogviszonyban végez, feltéve, hogy az egyetem által és a gazdasági társaság által
+végzett alaptevékenységek megegyeznek,
+- közalkalmazott részéről olyan tevékenység folytatása, amely sérti az Egyetem jó hírnevét és
+üzleti érdekét,
+9. Eljárási szabályok:
+A közalkalmazott a jogviszony létesítésekor köteles a mellékletben található
+összeférhetetlenségi nyilatkozatot kitölteni. A közalkalmazott a jogviszony fennállása alatt 3
+napon belül köteles írásban bejelenteni a munkáltatói jogkör gyakorlójának, ha vele szemben
+törvényben, vagy a kollektív szerződésben meghatározott összeférhetetlenségi ok merül fel,
+illetve, ha a közalkalmazotti jogviszonyának fennállása alatt összeférhetetlenségi helyzetbe
+kerül, vagy az összeférhetetlenségi nyilatkozat tartalmában bármilyen változás adódik.
+
+Az összeférhetetlenségi nyilatkozat kitöltése a jogviszony létesítésének feltétele. Az
+összeférhetetlenségi nyilatkozatban közöltek tartalmáért a közalkalmazott fegyelmi
+felelősséggel tartozik.
+Az összeférhetetlenséget a munkáltatói jogkör gyakorlója köteles kivizsgálni és az
+összeférhetetlenség fennállása esetén a közalkalmazottat az összeférhetetlenségi helyzet 8
+napon belüli megszüntetésére írásban felszólítani.
+A felszólítás eredménytelen volta esetén a munkáltatói jogkörű vezető a közalkalmazottat az
+összeférhetetlenségi helyzet megszüntetéséig írásban eltilthatja a munkavégzés alól. Az eltiltás
+időtartama alatt a közalkalmazotti jogviszony szünetel. Ha ez nem vezet eredményre, a
+munkáltató a közalkalmazott ellen fegyelmi eljárást indíthat, vagy kezdeményezheti a
+jogviszony felmentéssel való megszüntetését.
+A munkavégzésre irányuló további jogviszony nyilvántartásáról a munkáltatói jogkör gyakorlójának kell gondoskodnia. A nyilvántartás egyik példányát a Gazdasági Főigazgatóságra
+meg kell küldeni, szükség szerint aktualizálni (összeférhetetlenségi vizsgálat miatt).
+Az összeférhetetlenségi nyilatkozat mintáját a KSZ. 5. sz. melléklete tartalmazza.
+10. Hatálybalépés:
+A kollektív szerződés jelen módosítása a hatálybalépésétől (2009. október. 7.) számítottan új
+munkakör, vagy vezetői, magasabb vezetői megbízást betöltése esetén alkalmazandó.
+*** 4.8. A fegyelmi felelősség
+Kjt. 45-53. §
+Amennyiben a rektor egyetemi vagy főiskolai tanár ellen indít fegyelmi eljárást, azt a
+felügyeleti szerv útján a kinevezőnek köteles bejelenteni. Azt is be kell jelenteni, ha a
+fegyelmi eljárás alá vont egyetemi/főiskolai tanár felfüggesztése szükségessé vált. Mindezen
+esetekben a Fegyelmi Tanács tárgyalására meg kell hívni a kinevezőt is, aki megbízottja útján
+megfigyelőként részt vehet a Fegyelmi Tanács tárgyalásán.
+
+** 5. A munkaidő és pihenőidő
+Kjt. 55. §; Mt. 117. §, 118-126. §;
+*** 5.1. A munkaidő, annak beosztása és a pihenőidő
+A közalkalmazottak, ha a KSZ kivételt nem tesz, általában heti 40 órában, öt napos
+munkarend szerint, egyműszakos osztatlan munkaidő beosztásban dolgoznak.
+Az Egyetem általános munkarenden belüli munkaidő beosztását, valamint az általánostól
+eltérő munkaidő beosztásban foglalkoztatottak, illetve az így dolgozó szervezeti egységek
+munkarendjét a KSZ 8. sz. melléklete tartalmazza.
+
+Az oktatói, kutatói és tanári munkakörben dolgozók kéthavi munkaidőkeretben dolgoznak. A
+munkaidőkeret beosztását a munkáltatói jogkörű vezető állapítja meg. A Foglalkoztatási
+Követelményrendszer alapján, a kari sajátosságok figyelembe vételével, a munkáltatói jogkör
+gyakorlója határozza meg, hogy az oktatói, kutatói, tanári munkakörben foglalkoztatottak a
+felsőoktatási törvényben meghatározott kötelezettségek teljesítése érdekében munkaidejükből
+mennyi időt kötelesek a munkaköri leírásban meghatározott feladatok ellátásával a
+felsőoktatási intézményben tölteni.
+Az egyetemen ellátandó feladatok időpontját és időtartamát az órarendi beosztás, a
+számonkérések és konzultációk időpontja, a laboratóriumi, könyvtári, számítógép kapacitás és
+egyéb szolgáltatásokra figyelemmel a szervezeti egység vezetője határozza meg.
+A megszakítás nélküli munkarendben dolgozók, valamint a karok Tanulmányi
+Osztályán/Csoportján, valamint a könyvtárban dolgozó közalkalmazottak kéthavi
+munkaidőkeretben dolgoznak, a munkaidőkeret beosztását a munkáltatói jogkörű vezető
+állapítja meg.
+Munkaidőkeret alkalmazása esetén a munkaidőkeret kezdő és befejező időpontját meg kell
+határozni és erről a munkavállalót írásban tájékoztatni kell. Írásbelinek minősül ebből a
+szempontból a tájékoztatás, ha azt a munkáltatónál a helyben szokásos módon közzéteszik.
+A megbízott magasabb vezető és vezető vezetői megbízásából fakadó feladatait kötetlen
+munkaidőben látja el.
+Az étkezés munkaidőn belül biztosított, a rendelkezésre álló munkaközi szünet 30 perc.
+*** 5.2. Szabadság és annak kiadása
+Kjt. 16. §, 56-58/A. §; Mt. 130. §, 132. § (1)-(3) és (7), 133-140. §
+Az oktató, kutató és tanári munkakörben foglalkoztatott közalkalmazottak szabadságát
+elsősorban július és augusztus hónapban, továbbá a téli és tavaszi szünetben, a
+vizsgaidőszakban (amennyiben az oktatónak nincsenek vizsgáztatási feladatai) kell kiadni.
+A szabadságok kiadására minden évben szabadságolási ütemtervet kell minden szervezeti
+egységnek készíteni, amelyet a munkáltatói jogkör gyakorlója hagy jóvá.
+A közalkalmazottak által igénybe vehető szabadság táblázatszerű felsorolását a KSZ 6. sz.
+melléklete tartalmazza.
+*** 5.3. Rendkívüli munkavégzés
+Mt. 126-129. §
+A munkáltató a munkavállalót különösen indokolt esetben, a szervezeti egység vezető
+javaslatára, rendkívüli munkavégzésre kötelezheti. A rendkívüli munkavégzést a munkáltatói
+jogkörű vezetőnek kell elrendelni. Az elrendelést a munkavállaló kérésére írásba kell foglalni.
+Különösen indokolt esetnek minősül többek között:
+- üzemzavar elhárítása;
+- rendezvények szervezése;
+- nyári kollégiumi elszállásolás;
+- leltározás;
+- felvételi és vizsgaidőszak;
+- jelentések, költségvetés, beszámolók, havi illetményszámfejtés elkészítése.
+
+Rendkívüli munkavégzésnek minősül
+- a munkaidő beosztástól eltérő,
+- a munkaidőkereten felüli munkavégzés.
+Munkaszüneti napra [Mt. 125. § (3) bekezdés] rendkívüli munkavégzés csak a megszakítás
+nélküli munkarendben foglalkoztatottaknál rendelhető el.
+Elemi kár, baleset, továbbá az életet, egészséget, testi épséget fenyegető közvetlen és súlyos
+veszély megelőzésére, illetve elhárítására a rendkívüli munkavégzés bármely munkakörben,
+előzetes jóváhagyás, egyeztetés nélkül elrendelhető.
+Nem túlmunka, ha a munkavállaló az engedélyezett távollét idejét a munkáltatóval történt
+megállapodás alapján ledolgozza.
+Az elrendelhető túlmunka felső határa naptári évenként 300 óra.
+*** 5.4. A munkáltató nyilvántartási kötelezettsége
+Kjt. 83/B-83/D. §; Mt. 140/A. §; Kjt. 5. sz. melléklet, Ftv. 2. sz. melléklet
+A munkáltató köteles nyilvántartani a közalkalmazottak rendes és rendkívüli munkaidejével,
+ügyeletével, készenlétével, szabadságának kiadásával, valamint az egyéb munkaidőkedvezményével kapcsolatos adatokat.
+A munkáltató ugyancsak köteles nyilvántartani a közalkalmazottak Kjt. 5. sz. és az Ftv. 2. sz.
+mellékletében előírt adatait.
+
+** 6. Előmeneteli és illetményrendszer
+*** 6.1. A közalkalmazottak előmeneteli és illetményrendszere
+Kjt. 60-66. §, 78-80. §; Mt. 141. §, 142/A. §, 144. § (1)-(5) és (7), 145-146. §, 147. § (1)-(5),
+148-153. §, 165. § (1), 165/A. §;
+A magasabb fizetési fokozatba való lépés három éves várakozási idejét fizetési fokozatonként
+csökkenteni lehet egy évvel, a tartósan magas színvonalú munkavégzés elismeréseként, illetve
+kiemelkedő teljesítményért. Kiemelkedő teljesítménynek tekinthető, ha a közalkalmazott
+miniszteri, rektori kitüntetésben részesül, kiváló dolgozó címet kap, vagy - az oktató, kutatói
+és tanári munkakör kivételével - tudományos fokozatot szerez. Az 53/2006. Korm.
+rendeletben meghatározott munkakörökben, amennyiben a közalkalmazott állami
+kitüntetésben részesül – a művészeti területen foglalkoztatottak kivételével - a megszerzés
+évében egy évvel csökkenteni kell a fizetési fokozatok közötti várakozási időt.
+Amennyiben a közalkalmazottnak a munkaköre ellátásához a besorolás alapjául szolgáló
+iskolai végzettség, illetve szakképesítés, szakképzettség mellett, a kinevezésben feltüntetett
+
+további szakképesítésre, szakképzettségre is szükség van és azzal a közalkalmazott
+rendelkezik, alap-illetménye az „A”,”B”,”C”,”D”,”E”,”F”,”G” fizetési osztályban
+- egy további szakképesítés után 5 %-kal,
+- kettő vagy több további szakképesítés után 8 %-kal növekszik.
+Az illetménynövekedés feltétele, hogy a közalkalmazott a további szakképesítését
+munkaidejének legalább 10 %-ában hasznosítja.
+A „H”,”I”,”J” fizetési osztályban az illetménynövekedés mértéke
+- egy további szakképesítés esetén 7 %,
+- kettő vagy több további szakképesítés esetén 10 %.
+Ezen illetménynövekedés mértéke illeti meg a művésztanár, mérnöktanárt, műszaki
+(gazdasági) tanárt, műszaki (gazdasági) oktatót, nyelvtanárt, testnevelő tanárt, valamint a
+kollégiumi tanárt, ha a kinevezésében feltüntetett további szakképesítést az Egyetem által
+indított alapképzési vagy szakirányú továbbképzési szakon, illetve akkreditált iskolai
+rendszerű felsőfokú szakképzésben hasznosítja.
+A garantált illetményű oktatók, kutatók további szakképesítésük után nem jogosultak
+illetménynövekedésre.
+
+*** 6.2. Illetménykiegészítés, keresetkiegészítés, jutalom, prémium
+Kjt. 67. §, 77-77/C. §
+A közalkalmazottak részére adható illetménykiegészítés, keresetkiegészítés, jutalom, valamint
+a magasabb vezetők és vezetők részére adható prémium és jutalom tárgyában a munkáltatói
+jogkörű vezető saját mérlegelési jogkörében dönt. A juttatások feltételeit a közalkalmazott
+kinevezésében, határozatban, vagy a munkaköri leírásban írásban is rögzíteni kell.
+*** 6.3. Illetménypótlékok
+Kjt. 69-75. §; Mt. 145-146. §, 147. § (1)-(2), 148-149.§
+A Kjt. alapján fizetendő illetménypótlékok:
+- a vezetői pótlék,
+- a címpótlék,
+- az egészséget károsító kockázattal járó munka címén járó pótlék,
+- az idegennyelv-tudási pótlék,
+- tanári munkakörben foglalkoztatottak illetménypótléka.
+A Kjt. alapján fizetendő illetménypótlékok alapja a mindenkori pótlékalap.
+Munkakör, kapcsolt munkakör vagy valamely bizottság elnöki tisztsége betöltése alapján, a
+kari keret terhére egyéb illetménypótlék fizethető.
+Az illetménypótlékok táblázatszerű felsorolását a KSZ 2. sz. melléklete tartalmazza.
+
+*** 6.4. Egyéb illetménypótlékok
+A közalkalmazott feladatkörébe nem tartozó tevékenységért – amennyiben a fedezet
+biztosított – határozott időre, a munkáltatói jogkör gyakorlója, a többletfeladattal arányos
+illetménypótlékot is megállapíthat, melynek alapja a mindenkori pótlékalap.
+Az egyéb oktatói, valamint a nem oktatói, kutatói munkakörben alkalmazott
+(szakalkalmazott) tudományos fokozattal rendelkező szakalkalmazott nem jogosult a
+tudományos fokozata után illetménypótlékra.
+*** 6.5. Rendkívüli munkavégzés díjazása
+Kjt. 76. §; Mt. 145. §, 147. § (1)-(5)
+A rendkívüli munkavégzésért fizetendő bérpótlék számítási alapja a munkavállaló személyi
+alapbére.
+A munkaidő-beosztás szerinti napi munkaidőt meghaladóan, illetve a munkaidőkereten felül
+végzett munka esetén a pótlék mértéke ötven százalék. A munkáltatói jogkörű vezető és a
+közalkalmazott megállapodása alapján ellenértékként – pótlék helyett – szabadidő jár, ami
+nem lehet kevesebb a végzett munka időtartamánál.
+A munkaidő-beosztás szerinti pihenőnapon (pihenőidőben) végzett munka esetén a pótlék
+mértéke száz százalék. A pótlék mértéke ötven százalék, ha a munkavállaló másik pihenőnapot
+(pihenőidőt) kap.
+A túlmunka esetén járó szabadidőt, illetve a pihenőnapot (pihenőidőt) legkésőbb a rendkívüli
+munkavégzést követő hónapban kell kiadni. Munkaidőkeret alkalmazása esetén a szabadidőt,
+illetve a pihenőnapot (pihenőidőt) legkésőbb az adott munkaidőkeret végéig kell kiadni.
+Nem jár rendkívüli munkáért sem díjazás, sem szabadidő, vagy pihenőnap (pihenőidő) a
+magasabb vezető és vezető beosztású munkakörben dolgozóknak a vezetői feladatokkal
+kapcsolatos túlmunka esetén.
+*** 6.6. Helyettesítési díj
+Mt. 83/A. § (7)
+A közalkalmazott – különösen indokolt esetben – munkakörébe nem tartozó munkát is köteles
+végezni. Ha a közalkalmazott eredeti munkakörén kívül ideiglenesen más munkakört is ellát
+úgy, hogy a két munkakörbe tartozó munkavégzés időtartama nem különíthető el (helyettesít),
+helyettesítési díj illeti meg. Ennek összege az elvégzendő munka mennyiségétől függően a – a
+helyettesített közalkalmazott illetményének figyelembevételével – az illetékes munkáltatói
+jogkörű vezető javaslata alapján kerül meghatározásra. A helyettesítési megbízást és az
+elvégzendő munka feltételeit írásban kell elrendelni.
+Ha a helyettesítést több munkavállaló látja el, a helyettesítési díj őket – ellenkező
+megállapodás hiányában - egyenlő arányban illeti meg.
+Ha a közalkalmazott vezetői pótlékban részesülő vezetőt helyettesít, akkor részére
+helyettesítési díjként a vezetői pótlékot kell folyósítani. E címen nem számolható el
+helyettesítési díj, ha a helyettesítés kinevezett (megbízott) helyettes munkakörben történik.
+
+Oktató egy hónapot meghaladó helyettesítése esetén a helyettesített órák száma alapján
+számítható óradíjak összege fizethető ki helyettesítési díjként. Külföldi kiküldetés, alkotó
+szabadság idejére nem jár helyettesítési díj oktatók helyettesítésére.
+Nem fizethető helyettesítési díj a helyettesített közalkalmazott betegszabadsága és szabadsága
+idejére.
+*** 6.7. Az illetmény védelme
+Kjt. 79/A. §; Mt. 155. § (1)-(3), 156-164. §
+A közalkalmazott részére az illetményt - a törvényben meghatározott kivételektől eltekintve –
+havonta egy alkalommal kell elszámolni a közalkalmazott által megjelölt bankszámlájára való
+átutalással, vagy postai úton minden hónap 5. napjáig. Az illetmények készpénzben való
+felvételét az intézménnyel szerződést kötő pénzintézet(ek) bankjegykiadó automatája, illetve
+más pénzintézeti fióki kifizetés útján biztosítja.
+A táppénz kifizetés, valamint a megbízási díjak kifizetésének napja megegyezik az
+illetményfizetés napjával.
+Az illetmény elszámolásáról a közalkalmazott részére havonta részletes, csak az érintett
+közalkalmazott számára hozzáférhető (titkosított) írásbeli tájékoztatást kell adni. A tárgyévi
+illetmény kifizetésekről (megbízási díjak is) személyi jövedelemadó elszámolás céljára a
+tárgyévet követő január hónap végéig részletes, titkosított kimutatást kell készíteni. A
+kimutatásokat olyan minőségű nyomtatott formában kell a közalkalmazottak rendelkezésére
+bocsátani, hogy az SZJA törvényben meghatározott megőrzési idő lejártáig olvasható
+állapotban legyen.
+*** 6.8. Munkába járással kapcsolatos utazási költségtérítés, hivatalos belföldi és külföldi kiküldetési költségtérítés, egyéb utazási költségtérítés elszámolása
+
+A 6.8.pont rendelkezései és a 4. sz. melléklet 2009. október 7. napjától a kollektív szerződésből törlésre kerül
+
+*** 6.9. Törzsgárda jutalom adományozása
+Törzsgárda jutalomra jogosult minden közalkalmazott, akinek a közalkalmazotti jogviszonya
+a Nyugat-magyarországi Egyetemen vagy annak jogelőd intézményeinél 20, 25, 30, 35, 40
+éve fennáll.
+Az összeg 15.000.-Ft, amely – munkáltatói jogkörű vezető döntése alapján - jutalom
+jogcímen vagy adómentes juttatásként fizethető ki.
+A törzsgárda jutalom/juttatás évente egy alkalommal állapítható meg kivéve öregségi,
+előrehozott öregségi nyugdíjazás esetén. Öregségi, előrehozott öregségi nyugdíjazás esetén az
+adományozás az utolsó munkában töltött napon esedékes.
+A törzsgárda jutalom/juttatás minden év március 31. napjáig betöltött 20, 25, 30, 35, 40 év
+betöltött időt figyelembe véve jár.
+
+A törzsgárda jutalom/juttatás adományozása az év április havi illetményével egyidejűleg
+esedékes.
+Az év március 31. napja után betöltött törzsgárda idő után járó jutalom/juttatás a következő
+évben kerül kifizetésre.
+A törzsgárda időnél nem vehető figyelembe a Nyugat-magyarországi Egyetemnél, illetve
+annak jogelőd intézményeinél eltöltött időnél a 30 napot meghaladó fizetés nélküli szabadság
+időtartama, kivéve a gyermekgondozás miatt igénybevett GYED, GYES.
+Az év március 31. napja előtt vagy március 31. napja után amennyiben megszűnik a
+közalkalmazotti jogviszony, törzsgárda jutalom/ juttatás nem jár, kivéve ha az öregségi vagy
+előrehozott öregségi nyugdíjazás miatt szűnik meg.
+A 2008. január 1-jei hatállyal egyesüléssel létrejött Nyugat-magyarországi Egyetemen
+törzsgárda jutalom/juttatás kifizetésére első ízben a 2008. március 31. napjáig betöltött 20, 25,
+30, 35, 40 törzsgárda évvel rendelkezőknél állapítható meg. A köztes törzsgárda évekkel
+rendelkezőknél kifizetésre nem kerül sor (pld. 22 év ...stb). Visszamenőleges törzsgárda
+jutalom/juttatás méltányosságból sem alkalmazható.
+A törzsgárda jutalom/juttatás átadására a munkáltatói jogkörű vezető döntésére ünnepélyes
+alkalom szervezhető.
+
+** 7. Jóléti, szociális és egyéb juttatások
+Kjt. 16. §, 79. §; Mt. 165-165/A. §
+Az egyetem béren kívüli juttatásokkal is támogatja közalkalmazottait.
+A támogatás formái:
+• önkéntes kölcsönös biztosító pénztári támogatás,
+• szociális és temetési segély,
+• étkezési hozzájárulás,
+• üdültetési támogatás,
+• munkaruha juttatás,
+• illetményelőleg,
+• lakáskölcsön,
+• nyugállományba vonuló közalkalmazott egyszeri adómentes természetbeni juttatása,
+• képernyős munkahelyekkel kapcsolatos juttatások,
+• munkáltató által biztosított kedvezményes internet használat,
+• sport támogatás.
+*** 7.1. Önkéntes kölcsönös biztosító pénztári támogatás
+1993. évi XCVI. tv. 12. §
+Az egyetem támogatást nyújt a közalkalmazott részéről választott bármely önkéntes
+kölcsönös biztosító pénztári tagság után.
+Az önkéntes pénztári tagsággal rendelkező közalkalmazott, a törvény előírásainak
+megfelelően a munkáltatónál eltöltött legalább 6 hónap közalkalmazotti jogviszony után
+jogosult támogatásra. A munkáltatói hozzájárulás mértékét a KSZ. 7. sz. melléklete
+tartalmazza.
+*** 7.2. Szociális és temetési segély
+Szociális segély
+A közalkalmazott kérésére rászorultság esetén – rendkívül indokolt esetben és amennyiben a
+forrás biztosított - szociális segély adható. A segély iránti kérelmet a munkáltatói jogkörű
+vezetőnek kell benyújtani. A segély megállapításáról a Közalkalmazotti Tanács és az illetékes
+Kari Reprezentatív Szakszervezet egyetértését kikérve a munkáltatói jogkörű vezető dönt.
+Szociális segély adható:
+- gyermekét egyedül nevelő szülőnek,
+- három vagy többgyermekes családoknak,
+- megváltozott munkaképességű közalkalmazottaknak,
+- egy hónapot meghaladó betegállományban lévőknek,
+- krónikus betegségben szenvedő gyermekét nevelő szülőnek,
+- minden olyan igénylőnek, akinek átlagkeresete a mindenkori minimálbér összegénél
+kevesebb.
+A szervezeti egység létszámából korábban nyugállományba vonult részére az illetékes
+munkáltatói jogkörű vezető - kérelemre – szociális segélyt nyújthat.
+Temetési segély
+A közalkalmazott elhalálozása, vagy a közalkalmazott hozzátartozójának elhalálozása esetén
+– írásbeli kérelemre – temetési segély adható az illetékes szervezeti egység/kar költségvetési
+támogatásán felüli bevétele terhére, melynek összegét a munkáltatói jogkörű vezető határozza
+meg.
+A temetési segély adható:
+a) közalkalmazott elhalálozása esetén,
+b) közalkalmazott – amennyiben a temetésről részben vagy egészben gondoskodik közeli hozzátartozójának [Mt. 139. § (2)] elhalálozása esetén.
+A segély mértékét a KSZ 7. sz. melléklete tartalmazza.
+*** 7.3. Étkezési hozzájárulás
+Az Egyetem a közalkalmazottai részére étkezési hozzájárulást biztosíthat. Étkezési
+hozzájárulás a közalkalmazotti jogviszonyban álló dolgozónak, az Egyetem további
+jogviszonyú közalkalmazottja, valamint bevételi, pályázati pénzforrás terhére foglalkoztatott
+részére is jár, a havi illetményével egyidejűleg.
+Nem jár étkezési hozzájárulás a 30 napot meghaladó:
+- keresőképtelenség idejére - beleértve a szülési szabadság idejét is - a 31. naptól,
+- tényleges munkavégzés alóli mentesítési idejére a 31. naptól.
+Nem jár étkezési hozzájárulás az első naptól:
+- GYED, GYES miatt igénybevett fizetés nélküli szabadság idejére,
+- külföldi munkavállalásra,
+- külföldi ösztöndíj idejére,
+- saját erőből családi ház építésére adott fizetés nélküli szabadság idejére,
+- közeli hozzátartozó ápolása miatt engedélyezett fizetés nélküli szabadság idejére,
+- igazolatlan távollét idejére.
+Nem jár étkezési hozzájárulás a 87 óránál rövidebb munkaidőben foglalkoztatottnak.
+Az étkezési hozzájárulás éves mértékét a KSZ 7. sz. melléklete tartalmazza.
+*** 7.4. Üdültetési támogatás
+Az Egyetem saját kollégiumai és egyéb szálláshelyei révén támogathatja az intézményben
+foglalkoztatottak és családtagjaik üdülését.
+*** 7.5. Munkaruha juttatás
+Kjt. 79. §
+Ha a munkavégzés a ruházat nagymértékű szennyeződésével vagy elhasználódásával jár, az
+Egyetem munkaruhát, ha pedig a munka jellege megkívánja formaruhát adhat.
+A munkaruházati termék az olyan öltözet és tartozéka, amelyet a munkavállaló egészségének
+védelme, a munkakörén, feladatainak ellátásán kívül hordott ruházatának megóvása céljából
+az adott munkakörben, a feladat ellátása közben visel, feltéve, hogy a körülményekből
+megállapíthatóan a munkaruházati termék használata nélkül a közalkalmazott egészsége
+veszélyeztetett, illetve a ruházat nagymértékű szennyeződése, gyors elhasználódása
+következik be. Kifejezetten jellemző öltözet, a szolgáltatási tevékenységet végzők
+megkülönböztető jellegű ruházata és tartozékai, amely az adott munkaköri feladat ellátásán
+kívüli viseletre alkalmatlan. Ezek juttatását jogszabály kötelezővé is teheti. A munkaruha és
+formaruha az arra jogosult dolgozót a munkába lépés napjától illeti meg. A munka-,
+formaruha juttatásának ideje a jogosultság napjával kezdődik. Ha a közalkalmazotti
+jogviszony létesítése próbaidő kikötéssel történik, a munka-, formaruhára való jogosultság a
+próbaidő elteltével nyílik meg. A munkaruhának a jogosultság időpontjától történő későbbi
+igénybevétele esetén a kihordási időből egy hónap ismerhető el.
+A munkaruha, formaruha megőrzése, tisztántartása a dolgozó feladata.
+A munkaruha juttatás személyi juttatás, amely a karok, illetve a keretgazdálkodó szervezeti
+egységek költségvetését terheli.
+Ha a közalkalmazott közalkalmazotti jogviszonya a juttatási idő alatt szűnik meg – kivéve
+nyugdíjazást, elhalálozást – a még fennmaradó kihordási idővel arányos munka- , formaruha
+árát a munkavállaló köteles megtéríteni.
+A közalkalmazott az őt megillető munka-, formaruhát maga is beszerezheti az engedélyezett
+összeghatárig. A vásárlás alkalmával munkáltató (Kar) nevére szóló ÁFÁ-s számlával számol
+el. Vásárlás esetén csak a munkakörre előírt munkaruha számolható el.
+Munkaruha juttatás a közalkalmazotti jogviszonyban álló dolgozónak és az egyetem további
+jogviszonyú közalkalmazottjának is jár. Saját bevétel terhére foglalkoztatottnak akkor jár, ha a
+munkaruha juttatást a munkáltatói jogkörű vezető indokoltnak tartja. Ezen esetben a
+munkaruha juttatás költsége saját pénzforrás terhére finanszírozandó.
+
+Meghosszabodik a munkaruha juttatás kihordási ideje az alábbi esetekben
+- keresőképtelenség idejével - beleértve a szülési szabadság idejét is - a 31. naptól,
+a távollét első napjától
+- GYED, GYES miatt igénybevett fizetés nélküli szabadság idejével,
+- külföldi munkavállalással,
+- külföldi ösztöndíj idejével,
+- saját erőből családi ház építésére adott fizetés nélküli szabadság idejével,
+- közeli hozzátartozó ápolása miatt engedélyezett fizetés nélküli szabadság idejével,
+- egyéb jogcímen igénybevett fizetés nélküli szabadság idejével,
+- tényleges munkavégzés alóli mentesítés idejével.
+A munkaruha a függelékben meghatározott kihordási idők szerint jár a számla leadásától
+függetlenül. Amennyiben egy kihordási időtartamon belül nem kerül számla leadásra, úgy az
+visszamenőlegesen nem követelhető.
+A munkaruha és formaruha juttatásra jogosító munkaköröket, az egyes ruhafajtákat, a
+kihordási időket, valamint a juttatás egyéb feltételeit a KSZ 7. sz. melléklete tartalmazza.
+*** 7.6. Illetményelőleg
+A szervezeti egységvezető javaslatára az illetmény-megtakarítás terhére a közalkalmazott
+indokolt kérésére – kivéve a magasabb vezető állású közalkalmazott - a munkáltatói
+jogkörű vezető illetményelőleg fizetését engedélyezheti.
+Az illetményelőleg 6 egyenlő havi részletben kerül visszafizetésre (levonásra). Ezt a
+körülményt az előleg mértékének meghatározásánál figyelembe kell venni.
+Illetményelőleg annak a közalkalmazottnak folyósítható, akinek az Egyetemen eltöltött
+közalkalmazotti jogviszonya az 1 évet meghaladja, a tárgyévben illetményelőleget még nem
+kapott és tartozása az Egyetemmel szemben nem áll fenn.
+Amennyiben az illetményelőlegben részesült közalkalmazotti jogviszonya a teljes összeg
+visszafizetése előtt megszűnik, az előlegtartozást egy összegben kell kiegyenlíteni.
+Határozott idejű közalkalmazotti jogviszony esetén illetményelőleg csak kivételesen adható.
+Az előleg mértékét úgy kell megállapítani, hogy a levonások a határozott idő lejártáig
+kiegyenlítsék az előlegtartozást.
+Az illetményelőleg szempontjából nem minősül tartozásnak a munkáltatói lakásépítési és
+vásárlási kölcsön, ha annak részleteit a kedvezményezett az előírt határidőben rendszeresen
+fizeti.
+Az illetményelőleg összegét a KSZ 7. sz. melléklete tartalmazza.
+*** 7.7. Nyugállományba vonuló közalkalmazott egyszeri adómentes természetbeni juttatása
+A nyugállományba vonuló közalkalmazottat az adott szervezeti egység vezetője
+nyugdíjazásával egyidőben az SZJA törvényben meghatározott egyszeri adómentes
+természetbeni juttatásban vagy egyhavi alapilletményének megfelelő összegű jutalomban
+részesítheti a szervezeti egység költségvetési támogatáson felüli egyéb pénzforrása terhére.
+Az egyszeri természetbeni juttatás összegét a KSZ 7. sz. melléklete tartalmazza.
+*** 7.8. Képernyős munkahelyekkel kapcsolatos juttatások
+3/2002. (VIII. 30) ESzCsM rendelet; 50/1999. (XI. 3.) EüM rendelet
+A képernyő előtti munkavégzésben érintettek részére a rendelet előírja a szükség szerinti, de
+legalább két évenként kötelező látásvizsgálatot, továbbá, hogy a képernyős munkahelyeknek
+meg kell felelniük a rendelet mellékletében meghatározott egészségügyi és munkabiztonsági
+követelményeknek. A vizsgálatot a foglalkozás egészségügyi szolgáltatást nyújtó orvos végzi
+el és indokolt esetben a közalkalmazottat szemészeti szakvizsgálatra utalja be. A
+közalkalmazott köteles e vizsgálaton részt venni.
+A képernyős munkakör fogalmát a rendelet határozza meg, és ezeket a munkaköröket a
+munkáltatói jogkörű vezetőknek kell megjelölni. Képernyős munkakörnek tekintendő az,
+amely a közalkalmazott napi munkaidejéből legalább négy órában a munkahelyen képernyős
+eszköz használatát igényli, ideértve a képernyő figyelésével végzett munkát is.
+A munkáltatónak a képernyő előtti munkához minimálisan szükséges, a szemészeti
+szakvizsgálat eredményeként meghatározott, a képernyő előtti munkavégzéshez szükséges
+éleslátást biztosító szemüveget kell biztosítania. (A rendelet szerint a munkavégzéstől
+függetlenül egyébként is használt szemüveg, vagy kontaktlencse után nem jár támogatás)
+A támogatás mértékét a KSZ 7. sz. melléklete tartalmazza.
+*** 7.9. Munkáltató által biztosított kedvezményes internet használat
+A munkáltatói jogkörű vezető engedélye alapján – ha a közalkalmazott munkájához
+elengedhetetlenül szükséges az otthoni Internet használat – a munkáltató kedvezményes
+Internet használat támogatásban részesítheti a munkavállalót, a szervezeti egység
+költségvetési támogatáson felüli egyéb pénzforrás terhére.
+A támogatás módját a KSZ 7. sz. melléklete tartalmazza.
+*** 7.10. Közalkalmazottak lakáscélú támogatása
+A támogatás módját a KSZ 9. sz. melléklete tartalmazza.
+*** 7.11. Sporttevékenység támogatása
+Az Egyetem - lehetőség szerint – támogatja az intézményben működő közalkalmazotti
+szabadidős körök, sportegyesületek, klubok tevékenységét.
+
+
+* IV. rész Kártérítési felelősség
+** 1. A közalkalmazott kártérítési felelőssége
+Kjt. 81-82. §; Mt. 166. §, 167. § (1)-(4), 168-173. §, 176. § (2); Ftv. 96. § (9)
+A közalkalmazott és a munkáltató kártérítési felelősségének megállapítására a Kjt 81-83. §ában foglaltak alapján kerül sor.
+Anyagi felelősség szempontjából felelős beosztású közalkalmazottaknak minősülnek az
+alábbiak:
+- magasabb vezető állásúak,
+- vezető állásúak,
+- raktárvezetők,
+- tanüzemek, kísérleti telepek vezetői,
+- műhelyvezetők,
+- laboratóriumvezetők,
+- gondnokok,
+- más készletkezeléssel megbízottak.
+A leltárhiányért a raktárak vezetői és a szervezeti egységek leltárfelelősei tartoznak
+felelősséggel. A leltárfelelősség megállapítására akkor kerülhet sor, ha:
+- a közalkalmazott kinevezésében a leltárfelelősség rögzítésre került és
+- a közalkalmazott a leltár körébe tartozó vagyontárgyakat szabályszerű átadó-átvevő
+leltárral átvette.
+A raktárvezető közalkalmazott a leltárhiányért kéthavi illetménye erejéig felel.
+A leltárfelelős közalkalmazott a leltárhiányért egyhavi illetménye erejéig felel.
+A leltárhiányért fennálló felelősség megállapítására - az általános szabályok szerint – a
+fegyelmi eljárás szabályait kell alkalmazni.
+Amennyiben az Egyetem e szabályozást nem alkalmazza, az általános kártérítési szabályok
+érvényesülnek.
+Az Egyetem kártérítési igényét a közalkalmazottal szemben a fegyelmi eljárás szabályai
+szerint közvetlenül is érvényesítheti, legfeljebb a közalkalmazott havi bruttó alapilletménye
+erejéig.
+
+** 2. A munkáltató kártérítési felelőssége
+Mt. 174. §, 176-187. §
+A munkáltató az általa okozott kárért a Kjt. és a Mt. általános rendelkezései alapján felel.
+A munkáltató a dolgozónak közalkalmazotti jogviszonyával összefüggésben okozott kárért
+vétkességre tekintet nélkül, teljes mértékben felel.
+*** 2.1. Munkahelyre bevitt tárgyak
+
+A munkába járáshoz, illetve a munkavégzéshez nem szükséges dolgokat a munkahelyre a
+közalkalmazott saját felelősségére vihet be. A munkába járáshoz illetve a munkavégzéshez
+nem szükséges dolgokban a bekövetkezett kárért a munkáltató csak szándékos károkozás
+esetén felel.
+Amennyiben a munkavégzéshez át kell öltözni, a szervezeti egység vezetője tartozik
+gondoskodni arról, hogy a ruházati és felszerelési tárgyak elhelyezésére biztonsági zárral
+ellátott helyiség és a helyiségben zárható szekrény álljon rendelkezésre, ha a munkavégzés
+nem abban a helyiségben történik.
+
+** 3. Egyetemi tulajdonú eszközök kölcsönadása
+A közalkalmazott írásbeli kérelmére a szervezeti egység vezetője engedélyezheti az egység
+leltárába tartozó szerszámok és más eszközök díjmentes kölcsönadását. Erről a leltárfelelősvagyonnyilvántartót értesíteni kell.
+A kölcsönvett tárgyat haladéktalanul vissza kell szolgáltatni a kölcsönzési idő lejáratakor és
+akkor is, ha erre a szervezeti egység vezetője a kölcsönbevevőt felszólítja.
+Eszközök kikölcsönzését rendszeres otthoni használatra az adott szervezeti egység munkáltató
+jogkörű vezetője engedélyezi. Erről a Gazdasági Főigazgatóságot értesíteni kell.
+A közalkalmazott a kölcsönvett eszközökön bekövetkezett kár esetén a teljes kárt köteles
+megtéríteni.
+
+* V. rész Kollektív munkaügyi vita, munkaügyi jogvita
+** 1. Kollektív munkaügyi vita
+Mt. 194-198. §;
+Kollektív munkaügyi vita esetén egyeztetésnek van helye:
+a) a szerződő felek a kollektív szerződéses viták és nem jogvitának minősülő
+(érdek)viták rendezésére 2-2 főből álló egyeztető bizottságot hoznak létre. A
+bizottságban a felek részéről 1-1 fő külső szakértő is részt vehet;
+b) a bizottság elnökét a felek nem külső képviselői közül sorshúzással kell
+megválasztani;
+c) a bizottság a döntést konszenzussal hozza;
+d) az egyeztető bizottság döntése csak akkor kötelező a felekre, ha magukat előre
+írásban a bizottság döntésének alávetik.
+A felek a konfliktusok feloldásához közvetítést vagy döntőbírót is igénybe vehetnek.
+Amennyiben ezzel élnek az így létrejött megállapodás, illetve döntőbírói döntés kollektív
+szerződéses megállapodásnak minősül.
+
+** 2. Munkaügyi jogvita
+Mt. 199. §, 201-202. §
+A közalkalmazott a közalkalmazotti jogviszonyból származó igényének érvényesítése,
+valamint a szakszervezet, illetve a közalkalmazotti tanács (közalkalmazott képviselő) a
+törvényből, illetőleg kollektív szerződésből származó igényének érvényesítése érdekében a
+törvény rendelkezései szerint munkaügyi jogvitát kezdeményezhet.
+
+* VI. rész A sztrájk joga, személy és vagyonvédelem sztrájk esetén
+(1989. évi VII. tv.; Mt. 70. §)
+
+** 1. A sztrájk joga
+Az Egyetemen foglalkoztatott közalkalmazottakat gazdasági és szociális érdekeik védelme,
+fejlesztése érdekében - a sztrájktörvényben meghatározott keretek között - megilleti a sztrájk
+joga.
+Sztrájk akkor kezdeményezhető, ha az adott ügyben az intézményen belüli érdekegyeztetés
+nem vezet eredményre, illetve az egyeztető eljárás a sztrájkot kezdeményezőnek fel nem
+róható ok miatt nem jött létre.
+A sztrájk ideje alatt a felek további egyeztetést kötelesek folytatni a vitás kérdések
+rendezésére, illetve kötelesek gondoskodni a személyi és a vagyonvédelemről.
+
+** 2. Személy és vagyonvédelem sztrájk esetén
+A sztrájkjog gyakorlása során a munkáltató és a közalkalmazottak kötelesek együttműködve
+biztosítani a személy és vagyonbiztonságot.
+A sztrájk megkezdését megelőzően az érdekképviseleti szervek tájékoztatni kötelesek az
+egyetem rektorát a munkabeszüntetés kezdetének időpontjáról, várható időtartamáról.
+A munkáltató a karok vezetői, valamint a gazdasági főigazgató útján gondoskodik az épületek
+őrzéséről és azon berendezések folyamatos működéséről, amelyeknek leállása
+helyrehozhatatlan kárt okozna. Helyrehozhatatlan kárral fenyegető berendezések köre:
+számítógép-hálózat, víz, gáz, áram, központi fűtés berendezései. Erre a feladatra kijelölt
+közalkalmazottak munkavégzésüket a sztrájkra való hivatkozással nem tagadhatják meg.
+Sztrájk ideje alatt - az előbb említett kivételtől eltekintve - munkavégzést elrendelni nem
+lehet.
+
+* VII. rész Vegyes és záró rendelkezések
+1.
+
+A Kollektív Szerződés hatálybalépésének feltétele, hogy azt a közalkalmazottak a
+szakszervezet által szervezett érvényes és eredményes szavazáson jóváhagyják. A 2008.
+január-február hónapban tartott szavazás jegyzőkönyve jelen szerződés mellékletét
+képezi.
+
+2.
+
+Jelen Kollektív Szerződés hatályba lépésével egyidejűleg hatályát veszti a Nyugatmagyarországi Egyetem valamennyi jogelőd intézménye és a reprezentatív
+szakszervezete által kötött kollektív szerződés.
+
+3.
+
+A KSZ akkor minősül kihirdetettnek, ha a szerződés egy-egy példányát az Egyetem
+valamennyi szervezeti egység vezetője kézhez kapja azzal, hogy az abban foglaltakat a
+szervezeti egység közalkalmazottaival 15 napon belül köteles megismertetni.
+
+4.
+
+Az új közalkalmazottakkal az illetékes szervezeti egység vezetője a munkába állás első
+napján köteles megismertetni a Kollektív Szerződés rendelkezéseit.
+
+5.
+
+A Kollektív Szerződést meg kell küldeni:
+o valamennyi magasabb vezető és vezető részére,
+o valamennyi szervezeti egység vezetője, koordinátora részére,
+o valamennyi szerződést kötő reprezentatív szakszervezet elnökének, valamint
+az általa meghatározott tisztségviselőnek,
+o Közalkalmazotti Tanács elnökének,
+o a Kollektív Szerződést munkakörüknél fogva alkalmazó közalkalmazottaknak,
+o központi és kari könyvtáraknak,
+o Foglalkoztatáspolitikai és Munkaügyi Minisztériumnak.
+
+6.
+
+A KSZ-t az egyetem honlapjára is fel kell rakni, biztosítva ezzel az elektronikus
+hozzáférést.
+
+7.
+
+A kollektív szerződést a szerződő felek együttesen kötelesek a Foglalkoztatáspolitikai és
+Munkaügyi Minisztériumnak a megkötést követő 30 napon belül nyilvántartásba vételre
+bejelenteni és a kapcsolódó adatszolgáltatást teljesíteni. A felek kötelesek továbbá a
+kollektív szerződés módosítását, felmondását, hatályának változását illetve
+megszűntetését a 2/2004. (I. 15.) FMM rendelet szerint bejelenteni.
+
+8.
+
+A szerződést kötő felek vállalják, hogy a KSZ-t minden év március 31. napjáig
+felülvizsgálják és az esetleges jogszabály változások alapján azt módosítják.
+
+9.
+
+A kollektív szerződés 2008. május 1. napján lép hatályba.
+
+Sopron, 2008. április 10.
+
+A munkáltató Nyugat-magyarországi Egyetem részéről:
+…………………………
+rektor
+
+
+A szakszervezetek képviselői részéről:
+Felsőoktatási Dolgozók Szakszervezete (FDSZ)
+
+…………………………..
+AK FDSZ
+
+……………………………
+BPK FDSZ
+
+………………………….
+Soproni Egyetemi Karok
+FDSZ
+
+………………………
+SEK FDSZ
+
+Agrár Oktatási és Kutatási Dolgozók Szakszervezete (AOKDSZ)
+
+……………………………
+AOKDSZ
+
+Tudományos Dolgozók Demokratikus Szakszervezete (TDDSZ)
+
+…………………………..
+TDDSZ
+
+
+* Záradék
+A Kollektív Szerződés 3.2., 4.7., 5.1., 5.2., 6.2., 6.5. és 6.8. pontjait, valamint 2., 4., 5., és 8.
+sz. mellékletét a Szerződő Felek 2009. október 7. napján módosították.
+
+Jelen dokumentum egységes szerkezetben tartalmazza a Kollektív Szerződés módosított,
+2009. október 7. napjától hatályos szövegét.
+
+Sopron, 2009. október 7.
+
+A munkáltató Nyugat-magyarországi Egyetem részéről:
+…………………………
+rektor
+A szakszervezetek képviselői részéről:
+Felsőoktatási Dolgozók Szakszervezete (FDSZ)
+
+…………………………..
+AK FDSZ
+
+……………………………
+BPK FDSZ
+
+………………………….
+Soproni Egyetemi Karok
+FDSZ
+
+………………………
+SEK FDSZ
+
+Agrár Oktatási és Kutatási Dolgozók Szakszervezete (AOKDSZ)
+……………………………
+AOKDSZ
+
+Tudományos Dolgozók Demokratikus Szakszervezete (TDDSZ)
+…………………………..
+TDDSZ
+
+
+* MELLÉKLETEK
+
+
+** 1/a. melléklet
+NYUGAT-MAGYARORSZÁGI EGYETEM
+…………………………………. Kar
+Dékán
+Iktatószám:
+
+Tárgy: Oktatói kinevezés
+
+Dolgozó neve:
+Születési helye, ideje:
+Anyja neve:
+Lakcíme:
+Iskolai végzettsége:
+Szakképzettsége:
+
+……………………….
+………………………..
+………………………..
+………………………..
+………………………..
+………………………..
+
+A Nyugat-magyarországi Egyetem …………………. Kar …………………
+Intézet
+……………………. Intézeti Tanszékén meghirdetett …………….. álláshelyre benyújtott és az
+illetékes szakmai fórumok által véleményezett pályázatát elfogadva, kinevezem Önt
+….év…..hó….napjától …..év … ..hó ….. napjáig terjedő, … éves határozott idejű
+közalkalmazotti jogviszonyba, heti …. órás kötetlen munkaidővel, a Nyugat-magyarországi
+Egyetem ………….. Kar ……………... Intézet …………………. Intézeti Tanszékének
+személyi állományába, …………………….. elnevezésű munkakörbe.
+Munkavégzés helye:
+A vonatkozó jogszabály értelmében határozott idejű ………………………. kinevezése még ……..
+alkalommal megismételhető.
+
+A Kjt. 79/D. § (3) bekezdésében foglaltak alapján besorolom …………………………
+elnevezésű munkakör ………….. fizetési fokozatába. Az 1992. évi XXXIII. tv. 79/E. §-a
+alapján havi garantált illetménye:
+….…..…………..,- Ft
+azaz ………………………….. forint.
+Oktatási, tudományos és egyéb tanszéki, valamint továbbképzési kötelezettségeit, illetve
+alaptevékenységének ellátása érdekében munkaidejéből munkahelyén eltöltendő kötelező
+munkaidőt - figyelemmel az Foglalkoztatási Követelményrendszerben foglalt általános és az
+egyetemi/főiskolai …….. munkakört betöltők részére meghatározott különleges követelményekre részleteiben, a ……………….. Intézeti Tanszék feladataitól függően, a közalkalmazott
+véleményének meghallgatásával, a ……………………. Intézet Igazgatója egyéni feladat- és
+továbbképzési tervben (munkaköri leírás) határozza meg.
+……. évi szabadsága az alábbiak szerint alakul:
+
+Munkába járással kapcsolatosan felmerülő utazási költségeit az 2/2003. számú Gazdasági Főigazgatói
+utasításban foglaltak alapján ………….. - …………… - ………….. útvonalon heti egy alkalommal
+téríti meg Egyetemünk az Ön részére, az országos közforgalmú vasút II. kocsiosztály leadott
+menetjegye ellenében.
+
+A fentiekben leírtakkal szemben Ön a kinevezés kézhezvételét követő 30 napon belül - a Munka
+Törvénykönyve (Mt.) 199. §-a alapján - keresetet nyújthat be az illetékes Munkaügyi Bíróságnál.
+
+A közalkalmazott tájékoztatása a közalkalmazotti jogviszony alapvető feltételeiről
+Az Mt. 76. § (7)-(8) bekezdése előírja, hogy a munkáltató a kinevezéssel egyidejűleg írásban legkésőbb a
+kinevezéstől számított harminc napon belül köteles tájékoztatni a közalkalmazottat.
+Az irányadó munkarendről, a bérfizetés napját, a rendes szabadság mértékének számítási
+módját és kiadásának rendjét, a munkáltatóra és a közalkalmazottra irányadó felmentési idő
+megállapításának szabályairól a kollektív szerződés rendelkezik.
+Egyetemünk Kollektív Szerződés hatálya alá tartozik. A Kollektív Szerződés és az Egyetemi
+Közalkalmazotti Tanács rendelkezéseit az illetékes szervezeti egység vezetője a munkába
+állás első napján köteles megismertetni a közalkalmazottal.
+Kelt: ……….…………..év……hó…..nap.
+
+………….…………….…
+dékán
+(munkáltatói jogkörű vezető)
+
+A kinevezést elfogadom:
+……………………
+közalkalmazott
+
+Erről értesítem még:
+
+
+** 1/b. melléklet
+NYUGAT-MAGYARORSZÁGI EGYETEM
+………………………………………….
+Kar Dékánja
+Iktatószám:
+Tárgy:
+Kinevezés
+
+(nem
+
+oktatói)
+
+Dolgozó neve:
+Születési helye, ideje:
+Anyja neve:
+Lakcíme:
+Iskolai végzettsége:
+Szakképzettsége:
+
+……………………….
+………………………..
+………………………..
+………………………..
+………………………..
+………………………..
+
+A közalkalmazottak jogállásáról szóló többszörösen módosított 1992. évi XXXIII. törvényben
+foglaltak alapján kinevezem Önt …. év ….. hó …. napjának hatályával a Nyugatmagyarországi Egyetem …….. Kar …… Intézetének / Tanszékének személyi állományába, heti
+40 órás munkaidővel, …………… elnevezésű munkakörbe, határozatlan idejű közalkalmazotti
+jogviszonyba.
+Munkavégzés helye:
+A besoroláshoz figyelembe vehető közalkalmazotti jogviszony kezdete (bemutatott okiratai alapján)
+:…….. év …. hó … nap.
+Következő magasabb fizetési fokozatba lépés várható ideje: …… év ….. hó …… nap.
+A Kjt. 61. § (1) bekezdésében és a Kjt. 62. §-ban foglaltak alapján besorolom a … fizetési osztály
+… fizetési fokozatába, …………… elnevezésű munkakörbe, havi
+alapilletmény:
+további szakképesítés utáni alapilletmény
+[Kjt. 66. § (3) bek. a) pont] 7%:
+nyelvpótlék /nyelv megnevezése/:
+összesen:
+
+…….. ,- Ft
+..…… ,- Ft
+…….. ,- Ft
+…….. ,- Ft
+
+azaz ……………………..forint utólagosan esedékes illetménnyel.
+Munka- és feladatkörét, valamint munkaidő rendjét ………… intézetigazgató/tanszékvezető
+munkaköri leírásban határozza meg.
+Tájékoztatom, hogy besorolását, valamint közalkalmazotti jogviszonyát figyelembe véve ….. évi
+szabadsága: alapszabadság: .… munkanap, pótszabadság: ….. munkanap, összesen: …. munkanap.
+(Időarányosan …. év …. hó …. napjától …. év …. hó …. napjáig: …. munkanap.)
+
+Munkába járással kapcsolatosan felmerülő utazási költségeit az 2/2003. számú Gazdasági Főigazgatói
+utasításban foglaltak alapján ………….. - …………… - ………….. útvonalon heti egy alkalommal téríti
+meg Egyetemünk az Ön részére, az országos közforgalmú vasút II. kocsiosztály leadott menetjegye
+ellenében.
+A fenti besorolás és a korábbi munkajogviszonyok beszámítása ellen Ön a kinevezés kézhezvételét követő
+30 napon belül - a Munka Törvénykönyve (Mt.) 199. §-a alapján - keresetet nyújthat be az illetékes
+Munkaügyi Bíróságnál.
+
+A közalkalmazott tájékoztatása a közalkalmazotti jogviszony alapvető feltételeiről
+Az Mt. 76. § (7)-(8) bekezdése előírja, hogy a munkáltató a kinevezéssel egyidejűleg írásban legkésőbb a
+kinevezéstől számított harminc napon belül köteles tájékoztatni a közalkalmazottat.
+Az irányadó munkarendről, a bérfizetés napját, a rendes szabadság mértékének számítási
+módját és kiadásának rendjét, a munkáltatóra és a közalkalmazottra irányadó felmentési idő
+megállapításának szabályairól a kollektív szerződés rendelkezik.
+Egyetemünk Kollektív Szerződés hatálya alá tartozik. A Kollektív Szerződés és az Egyetemi
+Közalkalmazotti Tanács rendelkezéseit az illetékes szervezeti egység vezetője a munkába állás
+első napján köteles megismertetni a közalkalmazottal.
+Kelt: …………………
+
+……………………………
+dékán
+(munkáltatói jogkörű vezető)
+A kinevezést elfogadom:
+
+…………………
+közalkalmazott
+
+Erről értesítem még:
+
+
+** 1/c. melléklet
+NYUGAT-MAGYARORSZÁGI EGYETEM
+………………………………………….
+Kar Dékánja
+Iktatószám:
+Tárgy:
+Kinevezés
+
+(nem
+
+oktatói)
+
+Dolgozó neve:
+Születési helye, ideje:
+Anyja neve:
+Lakcíme:
+Iskolai végzettsége:
+Szakképzettsége:
+
+……………………….
+………………………..
+………………………..
+………………………..
+………………………..
+………………………..
+
+A közalkalmazottak jogállásáról szóló többszörösen módosított 1992. évi XXXIII. törvényben
+foglaltak alapján kinevezem Önt …. év ….. hó …. napjának hatályával a Nyugatmagyarországi Egyetem …….. Kar …… Intézetének / Tanszékének személyi állományába, heti
+40 órás munkaidővel, …………… elnevezésű munkakörbe, határozott időre szóló
+közalkalmazotti jogviszonyba.
+Munkavégzés helye:
+A besoroláshoz figyelembe vehető közalkalmazotti jogviszony kezdete (bemutatott okiratait alapján)
+:…….. év …. hó … nap.
+Következő magasabb fizetési fokozatba lépés várható ideje: …… év ….. hó …… nap.
+A Kjt. 61. § (1) bekezdésében és a Kjt. 62. §-ban foglaltak alapján besorolom a … fizetési osztály
+… fizetési fokozatába, …………… elnevezésű munkakörbe, havi
+alapilletmény:
+további szakképesítés utáni alapilletmény
+[Kjt. 66. § (3) bek. a) pont] 7%:
+nyelvpótlék /nyelv megnevezése/:
+összesen:
+
+…….. ,- Ft
+..…… ,- Ft
+…….. ,- Ft
+…….. ,- Ft
+
+azaz ……………………..forint utólagosan esedékes illetménnyel.
+Munka- és feladatkörét, valamint munkaidő rendjét ………… intézetigazgató/tanszékvezető
+munkaköri leírásban határozza meg.
+
+Határozott időre szóló közalkalmazotti jogviszonya a határozott idő leteltével, .….. év
+……..hó …. nap- én/án minden külön értesítés nélkül, automatikusan megszűnik.
+Tájékoztatom, hogy besorolását, valamint közalkalmazotti jogviszonyát figyelembe véve ….. évi
+szabadsága: alapszabadság: .… munkanap, pótszabadság: ….. munkanap, összesen: …. munkanap.
+
+(Időarányosan …. év …. hó …. napjától …. év …. hó …. napjáig: …. munkanap.)
+Munkába járással kapcsolatosan felmerülő utazási költségeit az 2/2003. számú Gazdasági Főigazgatói
+utasításban foglaltak alapján ………….. - …………… - ………….. útvonalon heti egy alkalommal téríti
+meg Egyetemünk az Ön részére, az országos közforgalmú vasút II. kocsiosztály leadott menetjegye
+ellenében.
+A fenti besorolás és a korábbi munkajogviszonyok beszámítása ellen Ön a kinevezés kézhezvételét követő
+30 napon belül - a Munka Törvénykönyve (Mt.) 199. §-a alapján - keresetet nyújthat be az illetékes
+Munkaügyi Bíróságnál.
+
+A közalkalmazott tájékoztatása a közalkalmazotti jogviszony alapvető feltételeiről
+Az Mt. 76. § (7)-(8) bekezdése előírja, hogy a munkáltató a kinevezéssel egyidejűleg írásban legkésőbb a
+kinevezéstől számított harminc napon belül köteles tájékoztatni a közalkalmazottat.
+Az irányadó munkarendről, a bérfizetés napját, a rendes szabadság mértékének számítási
+módját és kiadásának rendjét, a munkáltatóra és a közalkalmazottra irányadó felmentési idő
+megállapításának szabályairól a kollektív szerződés rendelkezik.
+Egyetemünk Kollektív Szerződés hatálya alá tartozik. A Kollektív Szerződés és az Egyetemi
+Közalkalmazotti Tanács rendelkezéseit az illetékes szervezeti egység vezetője a munkába
+állás első napján köteles megismertetni a közalkalmazottal.
+Kelt: …………………
+
+……………………………
+dékán
+(munkáltatói jogkörű vezető)
+A kinevezést elfogadom:
+
+…………………
+közalkalmazott
+
+Erről értesítem még:
+
+
+** 2. sz. melléklet
+Illetménypótlékok
+
+1. Vezetői pótlék
+A Foglalkoztatási Követelményrendszer 37. §-ában meghatározottak szerint
+- a magasabb vezetői megbízás esetén a mindenkori pótlékalap 300%-a,
+- vezetői megbízás esetén a mindenkori pótlékalap 200 %-a kerül kifizetésre.
+2. Idegennyelv-tudási pótlék
+[71/1998. (IV. 8.) Korm. rendelet; 26/2000. (VIII. 31.) OM rendelet]:
+a) A tanári valamint az ügyvivő szakértő és ügyintéző munkakörben foglalkoztatott
+közalkalmazottak esetében a munkáltatói jogkörű vezető határozza meg az idegennyelv-tudási
+pótlékra jogosító munkaköröket.
+b) Idegenyelv-tudási pótlékra jogosult a közalkalmazott, ha olyan munkakört tölt be,
+amelyben a magyar nyelv mellett meghatározott idegen nyelv rendszeres használata indokolt.
+c) Nem jogosult idegennyelv-tudási pótlékra:
+- az oktatói és tudományos kutatói munkakörben foglalkoztatott közalkalmazott,
+- a nemzetiségi oktatásban résztvevő oktató és óvónő,
+- az alapfokú állami nyelvvizsgával rendelkező közalkalmazott.
+d) Idegennyelv-tudási pótlék mértéke
+
+mindenkori illetménypótlék-alap
+%-ában
+
+I./ angol, francia, német, orosz, spanyol, olasz nyelvből
+középfokú „C” típusú nyelvvizsga
+felsőfokú „C” típusú nyelvvizsga
+
+50 %
+100 %
+
+A , B tip. 25 % - 25 %
+A, B tip. 50 % - 50 %
+
+II./ egyéb nyelvből
+középfokú „C” típusú nyelvvizsga
+felsőfokú „C” típusú nyelvvizsga
+
+25 %
+50 %
+
+A , B tip. 12,5 % - 12,5 %
+A , B tip. 25 % - 25 %
+
+e) Az idegen-nyelvtudási pótlék folyósítására az állami, államilag elismert nyelvvizsga
+letételét igazoló bizonyítvány vagy azzal egyenértékű igazolás bemutatását követő hónap 1jétől kerül sor.
+f) A 26/2000. OM rendelet honosítási előírásait kell alkalmazni a külföldön kiállított külföldi
+nyelvvizsga-bizonyítványokra, amelyeket külföldön, vagy külföldi nyelvvizsgabizonyítványok kiadására feljogosított szervezetek belföldön állítottak ki, és valamely idegen
+nyelv ismeretét tanúsítják
+
+
+3. Tanári munkakörben foglalkoztatottak illetménypótléka
+Az 53/2006. Korm. r. 12. § alapján a tanári munkakörben (nyelvtanár, testnevelő tanár,
+művésztanár, gyakorlati oktató, mérnöktanár, műszaki tanár) foglalkoztatottak 50%-os
+illetménypótlékra jogosultak.
+
+4. Címpótlék
+A Kjt. 71. § alapján címpótlékra jogosító címek és a pótlék mértéke:
+főtanácsos
+főmunkatárs
+tanácsos
+munkatárs
+Intézeti senior
+
+100%
+75%
+50%
+25%
+100%
+
+5. Egyéb pótlékok:8
+Pénzkezelési pótlék: 50%
+Tűzvédelmi / munkavédelmi / biztonságvédelmi pótlék: 100%
+Szakvezetői / tagozatvezetői pótlék: 100%
+Amennyiben a pótlék által díjazott ugyanazon feladatot több közalkalmazott látja el, a pótlék
+összege a munkáltatói jogkörű vezető döntése alapján megosztható a közalkalmazottak között.
+
+8
+
+Módosítva 2009. október 7. napjától
+
+
+** 3. sz. melléklet
+Munkaköri leírás
+(Minta)
+NYUGAT-MAGYARORSZÁGI EGYETEM
+………………………………………………..
+/szervezeti egység/
+1./ A munkakört betöltő neve:
+2./ A munkakör megnevezése
+3./ Szervezeti egység:
+4./ Munkáltatói jogkört gyakorló vezető:
+5./ Közvetlen vezetője (felettese):
+6./ Alárendelt munkakörök:
+(vezető, irányító munkakörben dolgozók esetében)
+7./ Helyettese:
+8./ Helyettesíti:
+9./ A munkakör célja, rövid feladata:
+10./ Különleges megjegyzések:
+(egyéb intézményi megbízás: pl. munkavédelmi,- pv.vezető. stb. esetében)
+11./ Következő felülvizsgálat ideje:
+Ezen munkaköri leírás ……. oldalt tartalmaz.
+Sopron, 20…., …………………..hó…..nap.
+………………………………………….
+Szervezeti egység vezetője
+Jóváhagyom:
+…………………………………………
+Munkáltatói jogkört gyakorló vezető
+A munkaköri leírásban foglaltakat tudomásul vettem és egy példányát átvettem azzal, hogy
+munkám során az abban foglaltaknak megfelelően járok el.
+……………………………………………
+Munkakört betöltő
+
+
+** 4. sz. melléklet
+Munkába járással kapcsolatos utazási költségtérítés,
+hivatalos belföldi és külföldi kiküldetés, valamint egyéb utazási költségtérítés
+elszámolási rendje9
+
+9
+
+Törölve 2009. október 7. napjától
+
+
+** 5. sz. melléklet
+Összeférhetetlenségi nyilatkozat
+I. Általános összeférhetetlenség
+Alulírott … közalkalmazott a NymE kollektív szerződés 4.7. pontja alapján úgy nyilatkozom,
+hogy közalkalmazotti jogviszonyom mellet, munkavégzésre irányuló további jogviszonyban
+állok – nem állok10.
+Amennyiben további jogviszonyban állok:
+1.) - a jogviszony jellege: munkaviszony – megbízás – vállalkozás – társasági tagsági
+jogviszony
+- a végzett tevékenység (munkaköri feladat): …………………………………..
+- a munkaadó: ……………………………………………………………………
+- a munkaidő (bontásban, napi/heti óra): ………………………………………….
+- a munkavégzés helye: …………………………………………………….
+2.) - a jogviszony jellege: munkaviszony – megbízás – vállalkozás – társasági tagsági
+jogviszony
+- a végzett tevékenység (munkaköri feladat): ……………………………..
+- a munkaadó: ………………………………………………………………..
+- a munkaidő (bontásban, napi/heti óra): …………………………………..
+- a munkavégzés helye: …………………………………………………….
+
+Közalkalmazott nyilatkozata a további jogviszonyt érintően a munkaidő szempontjából:
+a) Alulírott … közalkalmazott úgy nyilatkozom, hogy a közalkalmazotti jogviszonyban és a
+munkavégzésre irányuló jogviszonyban a munkaidő egybe esik, ezért kérem a munkáltatói
+jogkörű vezető engedélyét a további jogviszony létesítéséhez.
+b) Alulírott közalkalmazott, úgy nyilatkozom, hogy a közalkalmazotti jogviszonyban és a
+munkavégzésre irányuló egyéb jogviszonyban a munkaidő nem esik egybe. Ezért a
+munkavégzésre irányuló egyéb jogviszony létesítéséhez a munkáltatói jogkörű vezető
+engedélye nem szükséges.
+Munkáltatói jogkört gyakorló döntése:
+- a további jogviszony a munkakörrel nem összeférhetetlen, vagy
+- összeférhetetlen, indokolás:…………………………………….…………………………….
+
+10
+
+A megfelelő aláhúzandó.
+
+
+II. Jogszabályban (Kjt, Ftv.) szabályozott magasabb vezetői, és vezetői megbízást érintő
+összeférhetetlenség
+Alulírott, … közalkalmazott kijelentem, hogy a KSZ 4.7.2.-4.7.4 pontjában meghatározott
+jogszabályon alapuló összeférhetetlenség esetemben
+nem áll fenn.
+
+Fegyelmi felelősségen tudatában kijelentem, hogy a közölt adatok a valóságnak megfelelnek.
+Az adatok változását 3 napon belül a munkáltatónak bejelentem.
+
+Sopron, 2009.
+
+…………………………………………………………………………………………………
+Munkáltatói jogkört gyakorló - közalkalmazott
+
+
+** 6. sz. melléklet
+Összesítő kimutatás az egyetemi közalkalmazottak által igénybe vehető rendes
+szabadságokról
+(Kjt. 56-58. §; Mt. 132 §.)
+1./ Alapszabadságok:
+a./ A közalkalmazotti az A, B, C, D fizetési osztályban
+20 nap/év
+b./ A közalkalmazotti az E, F, G, H, I, J fizetési osztályban
+21 nap/év
+2./ Pótszabadságok:
+a./ fizetési fokozattal megegyező számú pótszabadság (1. fokozatban = 0)
+2-14 nap/év
+b./ magasabb vezető állásúak pótszabadsága
+10 nap/év
+c./ vezető állásúak pótszabadsága
+5 nap/év
+d./ oktató-nevelő munkát végzők pótszabadsága
+25 nap/év
+(ebből 15 munkanapot oktató-nevelő – oktatással neveléssel összefüggő – munkára igénybe lehet
+venni)
+e./ kutatók, tanszéki mérnökök, egyéb oktatásban részvevők abban a félévben, amikor az
+oktatásban részt vesznek
+- legalább heti 2 óra tartása esetén
+5 nap/félév
+- 3-4 óra tartása esetén
+10 nap/félév
+- 5 óra és e feletti óra tartása esetén
+12 nap/félév
+f./ tudományos kutatók pótszabadsága
+5 nap/év
+g./ ionizáló sugárzásnak kitett munkahelyen dolgozó közalkalmazottak pótszabadsága
+- ha ilyen munkahelyen legalább 3 órát tölt
+5 nap/év
+- ha a közalkalmazott legalább öt évet eltöltött ilyen munkahelyen
+10 nap/év
+h./ rendszeresen kettős egészségi ártalomnak kitett munkakörben foglalkoztatott
+közalkalmazott, feltéve, ha az egyik egészségi ártalom sugárártalom függetlenül
+az ilyen helyen töltött napi időtől, mint PS I. PS II.
+5 ill. 10 nap/év
+i./ fiatalkorúak (utoljára abban az évben, amikor a 18. életévet betölti)
+5 nap/év
+j./ gyermeke nevelésében nagyobb szerepet vállaló közalkalmazott - szülők döntése szerint vagy gyermekét egyedül nevelő szülő a gyermek születésétől 16 éves koráig, ill. utoljára
+abban az évben, amikor a 16. életévet betölti:
+1 gyermek után
+2 nap/év
+2 gyermek után
+4 nap/év
+2-nél több gyermek után összesen
+7 nap/év
+k./ vak munkavállaló pótszabadsága
+5 nap/év
+3./ Az alap és pótszabadság együttes kiadása több jogcímen [Kjt. 58. § (1)-(3) bek.]:
+A pótszabadság a közalkalmazottat alapszabadságán felül egyszerre többféle jogcímen is megilleti.
+A fizetési fokozathoz kapcsolódó és a vezetői beosztás alapján járó pótszabadság mindkét jogcímen
+jár.
+Kivételek:
+A fizetési fokozathoz kapcsolódó és a munkakör (oktató, nevelő munkát végző és tudományos
+munkakört betöltők esetében, kivéve tudományos segédmunkatársak) alapján járó pótszabadság közül
+a magasabb mértékű pótszabadság jár.
+A munkakör (oktató, nevelő munkát végző és tudományos munkakört betöltők esetében, kivéve
+tudományos segédmunkatársak) és a vezetői beosztás alapján járó pótszabadságot évi tizenöt
+munkanap mértékéig össze kell számítani. Amennyiben tehát a közalkalmazott részére e két jogcím
+közül a munkakör alapján járó pótszabadság mértéke a 15 munkanapot meghaladja, akkor részére
+kizárólag csak a munkakör alapján biztosított pótszabadság jár.
+
+
+** 7. sz. melléklet
+Jóléti juttatások mértéke, módja, összege
+
+7.1.
+
+Önkéntes kölcsönös biztosító pénztári támogatás
+
+A munkáltatói hozzájárulás mértéke 2008. évben: 1.500,-Ft/hó.
+7.2.
+
+Szociális és temetési segély
+
+A szociális segély minimum összege 10.000,-Ft; maximum összege: 50.000,-Ft.
+A temetési segély minimum összege:
+a) a közalkalmazott elhalálozása esetén a mindenkori pótlékalap kétszerese,
+b) a közalkalmazott közeli hozzátartozója esetén a mindenkori pótlékalap egyszerese
+7.3. Étkezési hozzájárulás
+Az étkezési hozzájárulás mértéke az étkezésre jogosult választása alapján:
+-
+
+meleg étkezési utalvány igénybevétele esetén: 7000,-Ft/hó,
+hideg étkezési utalvány igénybevétele esetén: 5000,-Ft/hó.
+
+A legalább havi 87 órában foglalkoztatottat óraszámának arányában illeti meg az étkezési
+hozzájárulás.
+7.5. Munkaruha juttatás
+A táblázatban feltüntetett összegek bruttó értékek.
+
+Munkakörök
+
+Oktató
+Adminisztratív jellegű
+munkakörben dolgozó
+Gyakorlati oktatás
+vezetője
+Technikai szakoktató
+Testnevelő
+
+Könyvtári dolgozó
+Technikus
+Laboráns
+Műhelyvezető
+
+Munkaruha
+
+munkaköpeny
+munkaköpeny
+(VTSZ 6201, 6202)
+munkaköpeny
+munkaköpeny
+Sportcipő
+tréningruha
+fürdőköpeny
+munkaköpeny
+munkaköpeny
+munkaköpeny
+munkaköpeny
+
+Kihordási Értékhatár/
+idő
+db/Ft
+(hónap)
+24
+4000
+36
+6000
+12
+
+4000
+
+24
+24
+24
+24
+36
+24
+24
+24
+
+4000
+10000
+10000
+4000
+6000
+4000
+4000
+4000
+
+Üzemi gyakorlatot
+vezető tanár (MÉK)
+Telepvezető,
+brigádvezető
+
+Gépkocsivezető
+Kézbesítő, hivatalsegéd, telefonkezelő
+Sokszorosító
+Takarító
+
+Raktáros,
+anyagbeszerző
+Portás
+Fűtő
+Tehergépkocsi vezető
+
+Vattakabát
+Bakancs
+munkaköpeny
+
+36
+24
+24
+
+4000
+6000
+4000
+
+esőköpeny
+gumicsizma
+vattakabát
+munkaköpeny
+gumicsizma
+munkaköpeny
+munkaköpeny
+munkaköpeny
+magas-szárú
+vászoncipő
+munkaköpeny
+
+36
+24
+36
+24
+24
+24
+24
+12
+12
+
+3000
+3000
+4000
+4000
+3000
+4000
+4000
+4000
+4000
+
+24
+
+4000
+
+24
+24
+12
+24
+12
+12
+24
+24
+24
+6
+36
+36
+24
+24
+6
+36
+36
+24
+24
+6
+36
+36
+24
+24
+36
+24
+36
+24
+
+4000
+6000
+6000
+3000
+6000
+6000
+3000
+4000
+6000
+6000
+3000
+4000
+6000
+6000
+6000
+3000
+4000
+6000
+6000
+6000
+3000
+4000
+6000
+4000
+3000
+3000
+4000
+6000
+
+24
+24
+12
+
+3000
+6000
+6000
+
+munkaköpeny
+kétrészes munkaruha
+kétrészes munkaruha
+gumicsizma
+Traktorvezető
+kétrészes munkaruha
+Rakodó munkás (tehergépkocsi, traktor) kétrészes munkaruha
+gumicsizma
+Varrónő
+munkaköpeny
+Szakmunkás
+Üzemfenntartás kétrészes munkaruha
+Mezőgazdaság
+kétrészes munkaruha
+esőköpeny
+vattakabát
+bakancs
+Segédmunkás
+Üzemfenntartás kétrészes munkaruha
+Mezőgazdaság
+kétrészes munkaruha
+esőköpeny
+vattakabát
+bakancs
+Egyéb fizikai munkás Üzemfenntartás kétrészes munkaruha
+Mezőgazdaság
+kétrészes munkaruha
+esőköpeny
+vattakabát
+bakancs
+Gondnok
+munkaköpeny
+Telepi éjjeliőr
+esőköpeny
+gumicsizma
+vattakabát
+Általános mezőgazdasági munkát végző kétrészes munkaruha
+dolgozó
+gumicsizma
+bakancs
+Tangazdasági, kertészeti dolgozók, akik kétrészes munkaruha
+
+télen tartós szabadtéri munkát végeznek
+
+Állattenyésztő telepi dolgozó
+
+Sportcsarnok
+gondnok, szertáros
+
+vattakabát
+bakancs
+kétrészes munkaruha
+gumicsizma
+vattakabát
+Sportcipő
+munkaköpeny
+
+36
+24
+12
+24
+36
+24
+24
+
+4000
+6000
+6000
+3000
+4000
+10000
+4000
+
+7.6. Illetményelőleg
+Az illetményelőleg maximum összege - az SZJA törvény alapján legfeljebb hat havi
+visszafizetési kötelezettség mellett - a folyósítás napján érvényes minimálbér ötszöröse.
+7.7. Nyugállományba vonuló közalkalmazott egyszeri adómentes természetbeni juttatása
+Az egyszeri természetbeni juttatás értéke 2008. évben a 15.000,-Ft-ot nem haladhatja meg.
+7.8. Képernyős munkahelyekkel kapcsolatos juttatások
+A munkáltatói támogatás összege 2008. évben: 15.000,-Ft.
+7.9. Munkáltató által biztosított kedvezményes internet használat
+Támogatás módja:
+- az egyetem szerződést köt az internet szolgáltatóval és megtéríti az előfizetési díjat a
+közalkalmazottnak. A támogatás maximum összege: 2.200,-Ft/hó;
+vagy,
+-
+
+a közalkalmazott az internet szolgáltatásról részletes számlát nyújt be, amelynek alapdíj
+összegét megfizeti az egyetem. A támogatás maximum összege: 2.200,-Ft/hó.
+
+** 8. sz. melléklet
+Munkaidőrend
+Általánostól eltérő munkaidőrendek
+Egység neve
+
+Apáczai Csere János Kar
+
+Benedek Elek Pedagógiai Kar
+
+Általános munkaidő beosztás
+(hétfőtől péntekig)
+
+7.30 órától 15.30 óráig
+
+hétfőtől-csütörtökig 7.45 órától 16.00
+óráig és pénteken 7.45 órától 14.45
+óráig
+
+Szervezeti egység, vagy
+munkakör, vagy beosztás
+megnevezése
+
+Havi munkaidőkeret de az
+általánostól eltérő
+munkaidőbeosztás
+
+magasabb vezető, vezető
+
+kötetlen
+
+Kéthavi munkaidőkeret
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+könyvtári dolgozók
+
+kéthavi munkaidőkeret
+szorgalmi időszakban: 7.30 órától
+15.30 óráig, vagy 11.00 órától 19.00
+óráig, vizsgaidőszakban: 8.00 órától
+16.00 óráig, nyári időszakban: 6.00
+órától 14.00 óráig
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+
+karbantartó, segédmunkás
+
+hétfőtől-péntekig 6.00 órától
+14.00 óráig
+
+magasabb vezető, vezető
+
+kötetlen
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+könyvtári dolgozók
+
+kéthavi munkaidőkeret
+szorgalmi és vizsgaidőszakban
+valamint Kölcsönzési időben hétfőtől
+csütörtökig 10.00 órától 18.00 óráig, és
+10.00 órától 16.00 óráig
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+
+karbantartó
+
+6.00 órától 14.00 óráig
+
+üzemfenntartási tevékenységet
+ellátók
+
+hétfőtől péntekig, illetve az
+egységvezető által
+meghatározott időben: 6.00
+órától 14.00 óráig
+
+Mezőgazdaság- és
+Élelmiszertudományi Kar
+
+hétfőtől-csütörtökig 7.30 órától 15.40
+óráig pénteken 7.30 órától 14.50 óráig
+
+hétfőtől-csütörtökig 7.30 órától 16.00
+óráig pénteken 7.30 órától 15.10 óráig
+
+magasabb vezető, vezető
+
+kötetlen
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+könyvtári dolgozók
+
+kéthavi munkaidőkeret
+hétfő: 8-15.30, kedd, szerda, csütörtök:
+8-18-ig, péntek 8-14.30.
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+
+magasabb vezető, vezető
+
+kötetlen
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+könyvtári dolgozók
+
+kéthavi munkaidőkeret
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+délelőtt 6.00 órától
+10.20 óráig, délután
+14.30 órától 18.10
+óráig
+
+Állatkísérleti telep
+
+Soproni Egyetemi Karok
+(EMK, FMK, KTK)
+
+Karokhoz nem tartozó szervezeti
+egységek (Rektori Hivatal,
+Gazdasági Főigazgatóság,
+Központi Könyvtár és Levéltár,
+EIK)
+
+hétfőtől-csütörtökig 7.45 órától 16.00
+óráig és pénteken 7.45 órától 14.45
+óráig
+
+hétfőtől-csütörtökig 7.45 órától 16.00
+óráig és pénteken 7.45 órától 14.45
+óráig
+
+Tangazdaság
+
+hétfőtől-csütörtökig 6.30
+órától 16.00 óráig és pénteken
+6.30 órától 12.30 óráig
+
+magasabb vezető, vezető
+
+kötetlen
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+
+magasabb vezető, vezető
+
+kötetlen
+
+kéthavi munkaidőkeret
+általános munkarenden kívüli
+munkaidő beosztás 10.45 órától 19.00
+óráig
+
+olvasó szolgálatot ellátók
+(Központi Könyvtár és Levéltár)
+
+Savaria Egyetemi Központ (SEK
+Hivatal, Gazdasági és Műszaki
+Igazgatóság, Tanulmányi
+Hivatal, Dékáni Hivatalok,
+intézetek, könyvtár, levéltár)
+
+hétfőtől-csütörtökig 7.30 órától 16.00
+óráig és pénteken 7.30 órától 13.30
+óráig
+
+hivatalsegéd (Központi
+Könyvtár és Levéltár)
+
+hétfőtől-csütörtökig 5.45
+órától 14.00 óráig és pénteken
+5.45 órától 12.45 óráig
+
+magasabb vezető, vezető
+
+kötetlen
+
+oktató, kutató
+
+kéthavi munkaidőkeret
+
+könyvtári dolgozók
+
+kéthavi munkaidőkeret
+
+tanulmányi ügyeket ellátók
+
+kéthavi munkaidőkeret
+
+Takarítók: Kollégiumokban
+
+hétfőtől péntekig 5.00 órától 13.00 óráig
+
+Takarítók: SEK épületeiben
+
+hétfőtől péntekig 6.00 órától 14.00 óráig
+
+Portás
+
+Kéthavi munkaidőkeret
+Osztott munkarend
+
+6.00 órától 18.00
+óráig, 18.00 órától
+6.00 óráig
+
+Portás
+Geoinformatikai Kar
+
+Kéthavi
+munkaidőkeret
+Folytonos
+munkarend
+
+12/24, valamint
+24/48 órás szolgálat
+
+
+** 9. sz. melléklet
+Az egyetemi közalkalmazottak lakáscélú hitel keretében nyújtott lakáscélú
+munkáltatói támogatásáról
+
+(1)
+(2)
+
+(1)
+a)
+
+b)
+
+c)
+d)
+e)
+(2)
+
+1.§
+Általános rendelkezések
+A lakáscélú támogatás a lakáscélú munkáltatói hitel.
+Lakáscélú munkáltatói hitel akkor nyújtható, ha azt a Nyugat-magyarországi Egyetem
+a közalkalmazottnak hitelintézet útján az egyetem Lakásépítési Alap számláiról
+(építéshez, vásárláshoz, bővítéshez, korszerűsítéshez) folyósítja. A közalkalmazott
+részére e jogcímen biztosított támogatás nem haladhatja meg a lakáscélú állami
+támogatásról szóló 12/2001. (I. 31.) Korm. rendeletben (a továbbiakban: a
+„Rendelet”) meghatározott, méltányolható lakásigény mértékét.
+2.§
+A támogatható közalkalmazottak
+A NYME lakáscélú munkáltatói hitelt adhat minden közalkalmazottjának és a fenntartó
+közalkalmazottjainak, aki megfelel az alábbi feltételeknek:
+a NYME-nél legalább 2 éve teljes munkaidőben foglalkoztatott, határozatlan időre
+kinevezett közalkalmazotti jogviszonyban áll, és a lakáscélú munkáltatói kölcsön esetén a
+kölcsön jóváhagyott futamideje nem haladja meg a közalkalmazott 62. életévének
+betöltését.
+A NYME-nél legalább 2 éve teljes munkaidőben foglalkoztatott, határozott időre
+kinevezett közalkalmazotti jogviszonyban áll, és lakáscélú munkáltatói kölcsön esetén a
+kölcsön futamideje nem haladja meg a közalkalmazott 62. életévének betöltését,
+illetve a határozott idő lejártát. Ezen rendelkezés alól felmentés adható, ha a
+közalkalmazott vállalja, hogy amennyiben határozott idejű kinevezésének lejártával
+közalkalmazotti jogviszonya a NYME-nél megszűnik, a kölcsön fennmaradó részét egy
+összegben visszafizeti, vagy a visszafizetés feltételeiben – így annak futamidejében,
+kamatában – a NYME-vel megállapodik;
+A támogatásra a munkáltatói jogkörű vezetője javasolja,
+Korábbi munkáltatói lakáscélú támogatásból származó tartozása nincs,
+Egyéb kötelezettségeit, tartozásait is figyelembe véve a NYME megítélése szerint képes a
+lakáscélú munkáltatói támogatás szerződés szerinti visszafizetésére.
+Amennyiben a kérelmezők házaspárok és mindketten a NYME által teljes munkaidőben
+foglalkoztatott közalkalmazottak, úgy kölcsönkérelmüket – ha mindketten igénylők -,
+mint két egymástól független személy kérelmét kell elbírálni.
+
+3. §
+A támogatható lakáshitel
+(1) A 2. §-ban foglalt feltételek maradéktalan teljesülése esetén a lakáshitel igény akkor
+támogatható, ha az megfelel a következő feltételeknek:
+(a) a Rendeletben meghatározott feltételeknek mindenben megfelelő méltányolható
+lakásigénynek minősül,
+(b) a lakás per-, teher és igénymentes, kivéve a támogatási kérelemben megjelölttel azonos
+lakáscélra nyújtott hitelintézeti kölcsönt biztosító jelzálogjogot.
+
+(c) a Közalkalmazott a 3. sz. mellékletben nyilatkozik arról, hogy a lakáscélú munkáltatói
+támogatásra vonatkozó személyi jövedelemadó rendelkezéseit megismerte (Szja. 1.
+melléklet 2.7. és 9.3. pont), és a lakáscélú munkáltatói támogatás folyósítása esetén
+személyi jövedelemadó fizetési kötelezettsége nem keletkezik. Vállalja továbbá, hogy
+amennyiben jogszabályváltozás következtében a NYME-t mint munkáltatót terhelő
+adókötelezettség keletkezik a lakáshitel munkáltatói támogatás okán, a NYME által
+teljesített kifizetést haladéktalanul megtéríti, illetve felhatalmazza a NYME-t, hogy azt a
+munkabérből történő levonás szabályai szerint érvényesíthesse;
+(d) a Közalkalmazott jogerős építési engedéllyel, illetve – lakásvásárlás esetén, érvényes
+adásvételi szerződéssel, vagy vevőkijelöléssel rendelkezik. Amennyiben a támogatandó
+lakáscél építés vagy korszerűsítés, tervezői költségvetést kell bemutatni;
+(e) a közalkalmazott igazolja, hogy a támogatott lakáscél megvalósításához szükséges
+pénzügyi eszközei maradéktalanul rendelkezésre állnak. Igazolásul különösen adásvételi
+szerződésben foglalt, vételárrészlet eladói elismerése, költségszámlák, lakáscélú hitel,
+közvetlen állami támogatás jóváhagyásának banki igazolásai fogadhatók el.
+(2) Az (1) bekezdés a.) pontjában foglalt feltétel akkor számít teljesítettnek, ha a lakáscélú
+munkáltatói támogatást igénylő közalkalmazott írásban nyilatkozik arról, hogy a
+munkáltató által támogatott lakásépítés, vásárlás a méltányolható lakásigény mértékét
+nem haladja meg. A NYME jogosult arra, hogy a nyilatkozatban foglaltakat ellenőrizze.
+(3) Az (1) bekezdés b.) pontjában megjelölt jelzálogjogo(ko)n felül bármilyen egyéb, a lakást
+terhelő jogra vagy teherre a lakáscélú támogatás iránti kérelemben külön utalni kell. Ilyen
+jog vagy teher alapítása esetén a lakáscélú munkáltatói támogatás nyújtása megtagadható.
+Amennyiben a NYME döntése értelmében a lakáscélú munkáltatói támogatás a jogra vagy
+teherre tekintet nélkül jóváhagyásra kerül, vételi jog, elidegenítési és terhelési tilalom
+esetén csatolni kell annak jogosultja hozzájárulását a NYME javára alapított jelzálogjog
+bejegyzéséhez. Amennyiben az ingatlant haszonélvezet vagy özvegyi jog terheli, a
+lakáscélú munkáltatói támogatás nyújtásának feltétele, hogy a jogosult ingatlannyilvántartási bejegyzésre alkalmas, a haszonélvező/özvegyi jog jogosultja
+jelzálogszerződést aláírja és az abban a haszonélvezőre megfogalmazott
+kötelezettségvállalásokat és nyilatkozatokat tegyen, így különösen azt, hogy arra az esetre,
+és attól a feltételtől függően, ha a jelzálogjog alapján a NYME jogosult az ingatlan terhére
+követelését kielégíteni, hozzájárul a haszonélvezeti jog/özvegyi jog törléshez az ingatlannyilvántartásból.
+(4) A NYME jogosult a támogatás jóváhagyását illetve folyósítását további igazolások,
+nyilatkozatot, dokumentumok benyújtásától függővé tenni, mely feltétel elsősorban a
+támogatás célja megvalósulásának igazolásához kapcsolódhat.
+4.§
+A lakáscélú hitel munkáltatói támogatás iránti kérelem elbírálása, egyéb eljárási
+rendelkezések
+(1) A lakáscélú támogatás iránti kérelmet írásban, az erre a célra rendszeresített, az 1. számú
+mellékletben lévő kérelemmel és mellékletekkel alátámasztva kell benyújtani soproni
+Karok/szervezeti egységekhez tartozó közalkalmazott esetében a Gazdasági
+Főigazgatóság Humánerőforrás-gazdálkodási Osztályához. A Mezőgazdaság- és
+Élelmiszertudományi Kar (továbbiakban: MÉK), az Apáczai Csere János Kar
+(továbbiakban: AK), valamint a Geoinformatikai Kar (továbbiakban: GEO) esetében a
+Kar által kijelölt e feladattal megbízottnak, a SEK-en a gazdasági igazgatósághoz. A
+kérelemhez csatolni kell az illetékes szervezeti egység munkáltatói jogkörű
+vezetőjének/közvetlen vezetőjének javaslatát.
+(2) Az igénylő NYME-n nyilvántartott jövedelmi adatait a Gazdasági Főigazgatóság
+Humánerőforrás-gazdálkodási Osztály Bér Csoportja, míg a támogatás egyéb feltételeinek
+
+való megfelelést a soproni Karok és a karokhoz nem tartozó szervezeti egységek esetében
+a Gazdasági Főigazgatóság Humánerőforrás-gazdálkodási Osztály igazolja. A MÉK, AK,
+GEO, valamint a SEK közalkalmazottai esetében a megfelelést az erre a feladatra kijelölt
+személye igazolja egyeztetve a Gazdasági Főigazgatóság Kirendeltségének vezetőjével.
+(3) A Gazdasági Főigazgatóság, a SEK Gazdasági Igazgatóság és a Kari Gazdasági
+Kirendeltségek ellenőrzése kiterjed:
+(a) a Kormányrendeletben meghatározott lakásigény mértékére, továbbá ellenőrzi
+(b) a jelen fejezetben a kérelemhez csatolandó mellékletek benyújtását, és azok tartalmának
+megfelelőségét.
+(4) A Gazdasági Főigazgatóság Humánerőforrás-gazdálkodási Osztály, illetve a MÉK,
+ATFK, GEO, SEK erre kijelölt személyének a rendelkezésre álló adatai alapján dönt a
+közalkalmazott munkahelye szerint illetékes Lakás Bizottság.
+(5) A lakáscélú munkáltatói támogatásra irányuló szerződést a soproni Karok/szervezeti
+egységek esetében a Gazdasági Főigazgatóság Humánerőforrás-gazdálkodási Osztálya,
+illetve a MÉK, AK, GEO, SEK esetében az erre a feladatra kijelölt személy készíti elő, a
+2. sz. mellékletben foglalt mintaszerződés alapján.
+(6) A lakáscélú munkáltatói támogatás nyújtására szóló szerződést és az azt biztosító
+jelzálogszerződést a soproni Karok és a karokhoz nem tartozó szervezeti egységek
+esetében a NYME gazdasági főigazgatója írja alá. A MÉK, az AK, GEO esetében az
+illetékes munkáltatói jogkörű vezető, a SEK gazdasági igazgatója az aláíró.
+(7) A jelzálogszerződést ügyvédi/jogtanácsosi ellenjegyzéssel kell ellátni. Amennyiben a
+közalkalmazott nem kizárólagos tulajdonosa a lakáscélú munkáltatói támogatással érintett
+ingatlannak, a jelzálogszerződést az egész ingatlan tekintetében, valamennyi
+tulajdonostárssal és – ha van haszonélvezővel – kell megkötni.
+(8) A lakáscélú munkáltatói támogatás akkor folyósítható, ha a hitelt folyósító pénzintézetnél
+rendelkezésre állnak mindazok a dokumentumok, amelyek alapján a munkáltatói kölcsön
+visszafizetésére szóló szerződés elkészíthető. A lakáscélú támogatás folyósításának
+teljesítéséről a pénzintézet gondoskodik.
+(9) A lakáscélú munkáltatói támogatás elbírálása és folyósítása során keletkezett
+dokumentumokat az illetékes Lakás Bizottság ezzel a feladattal megbízott személye őrzi.
+(10)
+Azoknál a munkáltatói jogkörű vezetőknél, akik lakáscélú támogatást igényelnek,
+esetükben az illetékes munkáltatói jogkörű vezető dönt.
+(11)
+A Karokhoz nem tartozó szervezeti egységeket a NYME részének kell tekinteni.
+(12)
+A közalkalmazott a folyósító hitelintézet által a folyósítás megtörténtéről kiállított
+igazolás NYME-t megillető példányát köteles a folyósítást követő 5 munkanapon belül az
+igénylő szerint illetékes Lakás Bizottság ezzel a feladattal megbízottja részére az iratokhoz
+csatolás végett átadni.
+(13)
+Amennyiben a közalkalmazott a munkáltatói lakáscélú támogatás visszafizetésére
+köteles közalkalmazotti jogviszonya megszűnése okán, arról, hogy a – közalkalmazott
+külön kérésére – részletekben történő visszafizetés engedélyezhető-e és milyen
+feltételekkel, a lakáscélú munkáltatói támogatás engedélyezésére jogosult vezető dönt, a
+kinevezést/felmentést gyakorló munkáltatói jogkörű vezető javaslata alapján.
+(14)
+Amennyiben a közalkalmazotti jogviszony megszűnését követő 30 napon belül
+nem jön létre megállapodás a NYME és a közalkalmazott között a tartozás
+visszafizetésének ütemezéséről és feltételeiről, úgy a közalkalmazott egyösszegű
+visszafizetésre köteles.
+(15)
+A közalkalmazotti jogviszony megszűnését követően a tartozás rendezésére
+létrejött megállapodást az igénylő szerint illetékes Lakás Bizottság ezzel a feladattal
+megbízottja részére meg kell küldeni.
+5.§
+
+A nyújtható támogatás mértéke
+(1) . A lakáscélú munkáltatói kamatmentes hitel legmagasabb nyújtható összege 500.000.-Ft, azaz
+Ötszázezer forint. Jelen megállapodással a Munkáltatói Lakáskölcsön Alap 2006.
+január 1. napjával egységes elvek alapján működik.
+(2) A NYME Karain működő valamennyi Lakáskölcsön Alap megmarad (Győr,
+Mosonmagyaróvár, Székesfehérvár, Sopron).
+(3) A Karokhoz nem tartozó szervezeti egységek dolgozói a soproni karok részére
+elkülönített alapból részesülhetnek.
+(4) A (4) pontban említett alap 2006. január 1. napjával kiegészül a karokhoz nem tartozó
+szervezeti egységek létszámának 10.000 Ft/fő-vel szorzott összegével.
+A kiegészítést a hét kar nyújtja a költségvetési támogatásuk arányában, saját forrásból.
+A Karok a befizetendő kiegészítés összegéről külön levélben értesülnek.
+(5) A gyakorló intézmények valamint a Gazdasági Kirendeltség dolgozói a székhelyükön
+működő alapból (Kari Alap) részesülhetnek lakáskölcsön támogatásban.
+(6) A támogatás nyújtására irányuló szerződés aláírását a NYME Gazdasági Főigazgatója
+valamint a nem soproni székhelyű karok illetékes munkáltatói jogkörű vezetője
+megtagadhatja a támogatást jóváhagyó vezető értesítése mellett, amennyiben a
+lakáscélú munkáltatói támogatás rendelkezésre álló kerete ezt indokolja.
+
+(1)
+
+(2)
+
+(3)
+(4)
+
+(5)
+
+(6)
+
+6.§
+A lakáscélú munkáltatói hitel feltételei
+Lakáscélú munkáltatói hitelt a NYME 5 (öt) évre nyújt, havonta, egyenlő összegű
+törlesztő részletek útján történő visszafizetési kötelezettség mellett. A futamidő
+megállapítása és jóváhagyása során figyelemmel kell lenni a közalkalmazott
+fizetőképességére és törlesztésvállalására is.
+A havonta teljesítendő visszafizetési kötelezettség minden tárgyhónap 10. munkanapján
+esedékes, mely időpontig a közalkalmazott köteles gondoskodni arról, hogy a megkötésre
+kerülő kölcsönszerződésben megjelölt, vagy egyébként a NYME által írásban
+meghatározott bankszámlán az esedékes törlesztőrészlet jóváírásra kerüljön.
+A havonta fizetendő törlesztő részlet nem haladhatja meg a közalkalmazott havi nettó
+rendszeres illetményének és egyéb havi rendszeres járandóságainak 30%-át.
+A lakáscélú munkáltatói hitel kamatmentes.
+Amennyiben a közalkalmazotti jogviszony bármely oknál fogva megszűnik, a
+közalkalmazott köteles a még fennálló munkáltatói lakáscélú hiteltartozását egy összegben
+a közalkalmazotti jogviszonya megszűnése napját követő legkésőbb 30 napon belül
+maradéktalanul visszafizetni. A közalkalmazotti jogviszony megszűnése esetére a tartozás
+részletekben történő visszafizetésére kötött megállapodás futamideje nem lehet
+hosszabb, mint egy év. Ki kell kötni továbbá a piaci kamatmértéket, de legalább az Szja
+törvényben a kamatkedvezményből származó jövedelemnél meghatározott azon
+legalacsonyabb kamatértéket, amely mellett kamatkedvezményből származó jövedelem
+utáni adókötelezettség már nem áll be.
+A lakáscélú munkáltatói hitel alapján fennálló tartozást a lakáscélú munkáltatói támogatás
+iránti kérelemben megjelölt lakóingatlanon alapított jelzálogjog biztosítja. Amennyiben a
+cél lakásvásárlás, úgy elidegenítési és terhelési tilalmat is ki kell kötni. Amennyiben
+elidegenítési és terhelési tilalom nem jegyezhető be az ingatlan-nyilvántartásba, a
+közalkalmazott akkor is kötelezettséget vállal arra, hogy a jelzáloggal terhelt ingatlant
+kizárólag a NYME előzetes írásbeli hozzájárulásával idegeníti el, vagy terheli meg.
+A munkáltatói lakáscélú hitelre megkötött szerződést a NYME azonnali hatállyal
+felmondhatja, ha az alábbi feltételek bármelyike bekövetkezik:
+1. a közalkalmazott bármely fizetési kötelezettségét annak esedékességekor
+elmulasztja teljesíteni, és azt felhívás ellenére sem pótolja;
+
+2. A közalkalmazott megtévesztő, vagy hamis adatokat szolgáltatott a lakáscélú
+munkáltatói kölcsön elbírálásához, vagy valótlan tartalmú nyilatkozato(ka)t tett;
+3. a közalkalmazott megszegi a jelen Utasításban foglalt bármely kötelezettségét;
+4. a közalkalmazott egyéb súlyos szerződésszegést követ el a kölcsönszerződés vagy
+az azt biztosító jelzálogszerződés vonatkozásában;
+5. a közalkalmazott a kölcsönt nem a kérelmében megjelölt célra használta fel;
+6. a biztosítékul szolgáló ingatlan megsemmisül, és más megfelelő biztosítékot nem
+nyújt a közalkalmazott;
+7. a jelzálogjog bejegyzése az ingatlan-nyilvántartásba bármely okból elmarad, és a
+Közalkalmazott a jelzálogjog bejegyzése érdekében nem működik együtt, vagy
+más megfelelő biztosítékot nem ajánl fel;
+8. a közalkalmazott közalkalmazotti jogviszonya fegyelmi határozattal, elbocsátás
+útján szűnik meg;
+9. a közalkalmazott vagy a jelzálogkötelezettek bármely más, a jelzáloggal terhelt
+ingatlanon alapított jelzáloggal és/vagy elidegenítési és terhelési tilalommal
+biztosított kötelezettségüket megszegi(k), és ez a NYME tudomására jut.
+10. a jelzáloggal terhelt ingatlant érintő végrehajtási eljárás indul.
+(7) A közalkalmazott köteles lakossági bankszámlája terhére a NYME-vel szemben fennálló
+lejártfizetési kötelezettségei érvényesítése céljából, és arra korlátozottan felhatalmazást
+adni azonnali beszedési megbízás benyújtására, a jelen Utasítás mellékletét képező 4 sz.
+nyomtatvány felhasználásával, melynek a számlavezető hitelintézet általi tudomásul vétel
+igazolásáig a lakáscélú munkáltatói hitel folyósítása megtagadható.
+(8) A NYME-től lakáscélú munkáltatói kölcsönt igénybe vevő közalkalmazott hozzájárul
+ahhoz, hogy amennyiben a NYME-vel szemben teljesítendő fizetési kötelezettségének
+annak esedékességekor nem tesz eleget, a NYME választása szerint a munkabérből való
+levonás szabályai szerint érvényesítse lejárt követelését a közalkalmazottal szemben. Arra
+az esetre, ha a NYME a (7) bekezdéstől eltérően nem azonnali beszedési megbízás
+benyújtása útján, hanem munkabérből levonás útján érvényesíti igényét, a Közalkalmazott
+hozzájárul az illetménye 50%-ig terjedő levonáshoz.
+(9) Amennyiben a közalkalmazott a lakáscélú munkáltatói kölcsönből fennálló tartozása alatt
+a támogatással érintett lakásingatlant eladja, a NYME-vel szemben fennálló tartozását
+köteles haladéktalanul, az adásvételi szerződés megkötésével egyidejűleg, egy összegben
+visszafizetni.
+7.§
+Egyéb rendelkezések
+A megállapodás 4 db mellékletet tartalmaz, azokkal együtt érvényes.
+3/a. sz. melléklet: Nyomtatvány egyetemi munkáltatói lakáscélú hitel támogatás
+igénylésére
+3/b. sz. melléklet: Megállapodás lakáscélú hitel támogatásáról
+3/c. sz. melléklet: Nyilatkozat személyi jövedelemadó fizetési kötelezettségről
+3/d. sz. melléklet: Hozzájárulás azonnali beszedési megbízás benyújtására vagy
+munkabérből való levonásra
+
+(2 példányban, nyomtatott betűkkel kell kitölteni)
+
+Munkáltatói kölcsön támogatás iránti kérelem
+1. Kérelmező neve (előző neve): .........................................................................................
+
+Leánykori neve: ...............................................................................................................
+Anyja neve: ......................................................................................................................
+Születési hely: ....................... év ................................. hó ..................... nap .................
+Adóazonosító jel:……………………………..
+2. Személyi igazolvány száma: ............................................................
+3. Munkahelye :………………… .......................................................................................
+Munkahelyi telefon: .........................................................................................................
+Értesítési cím: ..................................................................................................................
+5. NYME jogviszony kezdete: ............. év ............................. hó ............ nap
+6. Családi állapota: ......................................................................................................
+7. Házastárs (élettárs) neve (előző neve), leánykori név is: ................................................
+8. Házastárs (élettárs) születési adatai: ............. év ....................................... hó ......... nap
+Anyja neve: ......................................................................................................................
+Munkahely: ............................................................ telefon: ............................................
+9. Kérelmezővel együtt lakó személyek:
+név: születési év, hó: rokonsági fok:
+..........................................................................................................................................
+..........................................................................................................................................
+..........................................................................................................................................
+..........................................................................................................................................
+10. A kérelmezővel együtt költöző személyek:
+név: bentlakás jogcíme: rokonsági fok: születési év, hó, nap:
+..........................................................................................................................................
+..........................................................................................................................................
+..........................................................................................................................................
+..........................................................................................................................................
+A lakás így .......... fő elhelyezését fogja szolgálni (vállalt gyermekkel együtt).
+11. Kérelmező és házastársa, élettársa (együttköltöző családtagja) állandó bejelentett lakásának címe
+(irányítószáma): ......................................................................................
+Kinek a tulajdonában, bérleményében áll: .......................................................................
+12. Tartózkodási helye címe (melyben lakik): .................................................................................
+13. A jelenlegi lakás, társasház, családi ház, önkormányzati bérlakás, vagy más szerv bér- vagy szolgálati
+lakása, átmeneti: szükséglakás, munkahelyi szálló, egyéb ……………………………………..
+(Megfelelő aláhúzandó!)
+14. Milyen jogcímen lakik a lakásban: tulajdonos, bérlő, bérlőtárs, albérlő, családtag, eltartó, egyéb:
+...................................................................................................................
+(Megfelelő aláhúzandó!)
+15. Kérelmező házastársának, élettársának, gyermekeinek, együtt költöző családtagjainak jelenlegi
+lakásának adatai:
+komfortfokozata: összkomfortos, komfortos, félkomfortos, komfort nélküli, szükséglakás.
+A lakás szobaszáma: .........., egyéb helyiségei: konyha, főzőfülke, étkező, kamra, fürdőszoba, WC, előszoba,
+hálófülke, hall és egyéb.
+16. A kért munkáltatói kölcsön támogatás célja: lakótelek-, lakásvásárlás (magánforgalmi, szervezett)
+családiház-építés, bővítés, korszerűsítés, : ............
+17. A kért munkáltatói kölcsön összege: ............................ Ft azaz ......................... forint
+18. A lakótelek-, lakásvásárlás, -építés, -korszerűsítés, -bővítés helye (irányítószám):
+...........................................................................................................................
+19. Kérelem indoklása: .......................................................................................................
+..........................................................................................................................................
+20. Lakásügyét, hitelügyét bonyolító pénzintézet megnevezése és címe (irányítószáma):
+..........................................................................................................................................
+21. Alulírott kijelentem, hogy más szervtől munkáltatói kölcsönben
+- részesültem,
+
+- nem részesültem,
+22. Alulírott kijelentem, hogy
+a) nekem, házastársamnak, élettársamnak, velem közös háztartásban élő gyermekemnek, együttköltöző
+családtagjaimnak külön-külön vagy együttesen lakás-, építési telek-tulajdona, résztulajdona, lakásbérleti,
+bérlőtársi jogviszonya, állandó használati joga, haszonélvezeti joga nincsen;
+b) nekem, házastársamnak, élettársamnak, velem közös háztartásban élő gyermekemnek, együttköltöző
+családtagjaimnak külön-külön vagy együttesen lakás-, építési telek-tulajdona, résztulajdona, lakásbérleti,
+bérlőtársi jogviszonya, állandó használati joga, haszonélvezeti joga a korszerűsíteni, bővíteni kívánt lakáson
+kívül nincsen.
+(Megfelelő aláhúzandó!)
+Lakástulajdonnak minősül, ha a felsoroltak valamelyike gazdasági társaság tagjaként a társaság részére
+vagyoni hozzájárulásként rendelkezésre bocsátott -lakás, valamint az építési és használatbavételi
+(fennmaradási) engedélyben meghatározott céltól, illetőleg a rendeltetésétől tartósan eltérő célra
+használható lakás.
+Ha van: címe, minősége, jogosultja: .....................
+23. Tudomásul veszem, hogy a megállapodásban foglaltak megszegése esetén, különös tekintettel arra, ha
+közalkalmazotti jogviszonyom megszűnik, a fennálló kölcsöntartozást egy összegben vissza kell fizetnem
+24. Tudomásul veszem, hogy a kölcsönkérelemben és mellékleteiben közölt adatokért büntetőjogi,
+fegyelmi és anyagi felelősséggel tartozom.
+25. Tudomásul veszem, hogy saját és együttköltöző családtagjaim körülményeiben bekövetkezett változást
+3 munkanapon belül köteles vagyok bejelenteni (családiállapot-, névváltozás, lakcím, munkahely).
+Kelt: ............................................................
+..................................................
+kérelmező aláírása
+A kérelemhez csatolandó:
+1. „Munkáltatói támogatás iránti kérelem kiegészítése” (1/a nyomtatvány).
+2. Kérelmező, házastársa, valamint vele együtt költöző családtagok és kezesek nettó fizetéséről szóló
+igazolás,
+3. Közalkalmazotti igazolás,
+4. A kölcsön céljának megfelelő iratok, okmányok, amelyről a munkahelyén a lakásügyekkel megbízott ad
+tájékoztatást.
+Közvetlen munkahelyi vezető javaslata a kérelem támogatására
+Kelt: ............................................................
+..................................................
+aláírás
+Bizottság javaslata:
+Kelt: ............................................................
+..................................................
+aláírás
+A kérelem elbírálására jogosult döntése: ............................ Ft
+.................... lejárat
+Kelt: ............................................................
+..................................................
+aláírás
+
+
+Munkáltatói kölcsön támogatás iránti kérelem kiegészítése
+Lakótelek-vásárlás
+1.
+- Vételár:
+
+....................................... Ft
+
+Új családi ház, toldaléképítés
+- Költségvetés összege:
+
+....................................... Ft
+
+Emeletráépítés, tetőtér-beépítés, bővítés, korszerűsítés
+- Költségvetés összege:
+
+....................................... Ft
+
+Vásárlás
+- Lakás vételára
+
+....................................... Ft
+
+Vagyonközösség felszámolása érdekében történő tulajdonszerzés
+- Tulajdonrész vételára
+
+....................................... Ft
+
+2/A. Korábban részesült-e lakáscélú munkáltatói támogatásban?
+- nem
+- igen, ......... évben .............................................................................................................................. célra
+.................................................................................................................................... című lakáshoz
+............................................. összegben.
+- visszafizetés módja: megszűnt
+.................... évben
+kedvezménnyel megszűnt
+.................... évben
+fennálló tartozás
+.................... évig.
+2/B.
+
+Részesült-e lakótelek-vásárláshoz munkáltatói támogatásban?
+- nem:
+- igen: ...............
+évben
+- visszafizetés módja: megszűnt
+.................... évben
+fennálló tartozás:
+.................... évig.
+
+Egyéb lakáscélú tartozása van-e?
+3.
+- nem
+- igen, ............................................. összegben, hitelt nyújtó .................................................................................
+Lakásépítési (szociálpolitikai) kedvezményben részesült?
+4.
+- nem
+- igen, .................. évben ................................................................................................................ Ft összegben.
+Jogosult-e lakástámogatási (szoc. pol.) kedvezményre?
+5.
+- nem
+- igen, ................................. gyermek után ..................................................................................... Ft összegben.
+Az 1. pont pénzügyi fedezete
+6.
+- visszaadott bérlakásért kapott térítési összeg
+................................. Ft
+- lakás eladásából származó összeg (adásvételi szerződéssel igazolt)
+................................. Ft
+- igényelhető lakástámogatási kedvezmény
+................................. Ft
+- vissza nem térítendő önkormányzati támogatás
+................................. Ft
+- önkormányzati támogatás
+................................. Ft
+- házastárs munkáltatói kölcsöne
+................................. Ft
+- ifjúsági betét összege
+................................. Ft
+- ifjúsági külön kölcsön összege
+................................. Ft
+- OTP hitel
+................................. Ft
+- egyéb pénzintézeti hitel
+................................. Ft
+pénzintézet megnevezése: .......................................................................................................................................
+hitel összege: ......................................... lejárata: ................................................
+
+............................................................... havi részlete: .......................................
+a kölcsön fedezete: ..................................................................................................................................................
+Igényelt munkáltatói kölcsön
+Saját rész (készpénz a 6. pontban felsoroltakon kívül)
+(építkezésnél: meglévő anyag és elvégzett munka értéke)
+
+................................. Ft
+................................. Ft
+................................. Ft
+
+Kelt: ..........................................................
+...................................................
+kérelmező aláírása
+
+(6 példányban kell kitölteni)
+Építés, vásárlás, bővítés, korszerűsítés esetén
+
+MEGÁLLAPODÁS
+a munkáltatói támogatásról és annak feltételeiről
+mely létrejött egyfelől a (Nyugat-magyarországi Egyetem ……………………………………………/Kar/szervezeti
+egység) mint munkáltató (a továbbiakban: Hitelező), másfelől ................................................................... mint
+közalkalmazott (a továbbiakban: adós) között
+Adós neve: ...........................................................................................................................
+Leánykori neve: ...................................................................................................................
+Anyja neve: .........................................................................................................................
+Születési helye: ....................................................................................................................
+Születési ideje: ....................................................................................................................
+Szem. ig. száma: ..................................................................................................................
+Adószám: ………………………………………………………………………………….
+Lakóhelye: ...........................................................................................................................
+
+1. Adós tudomásul veszi, hogy a Hitelező a ................................................................... pénzintézet
+............................................................. fiókjánál vezetett lakáscélú keret számlájáról, a saját erő
+kiegészítésére ........................ Ft, azaz ......................................................................................................
+forint
+kamatmentes
+munkáltatói
+kölcsönt
+nyújt
+a
+pénzintézet
+.............................................................................. fiókja útján.
+2. A kölcsön összege a .................................................................................. ingatlan-nyilvántartásban
+........................... helyrajzi számon nyilvántartott, természetben ...................... szám alatt lévő, ................
+szobás ............................. építéséhez, bővítéséhez, korszerűsítéséhez használható fel.
+Befejezési határidő: ................................ (a megvalósulást használatbavételi engedéllyel, korszerűsítés esetén üzembe
+helyezési engedéllyel igazolja).
+Adós tudomásul veszi, hogy az építkezést a kölcsön felhasználásával oly módon kell folytatnia, hogy az a
+megállapított időpontra befejezést nyerjen, az építkezés során mindazokat az előírásokat, amelyeket az építési
+engedély tartalmaz, meg kell tartania.
+Építés esetén a lakóingatlan jogerős használatbavételi engedélyének kiadásától számított 60 napon belül köteles
+eljárni az illetékes földhivatalnál annak érdekében, hogy a jelzálogul lekötött ingatlan tulajdoni lapjának I. részén a
+kölcsön igénybevételével épült lakóház feltüntetésre kerüljön.
+A hitel törlesztését a kölcsönszerződés megkötését követő hó 1-jén meg kell kezdeni, a hitelt folyósító pénzintézet
+által megállapított részletekben. A pénzintézet által felszámított kezelési költség a dolgozót terheli.
+A kölcsön lejárata: ............................ év, az 1. pontban meghatározott kedvezmény figyelembevételével.
+A kölcsön fedezete:
+- egyetemleges adóstárs adatai: (neve, leánykori neve, anyja neve, szül. hely és időpont, szem. ig. szám,
+lakcím),
+- készfizető kezes adatai: (neve, leánykori neve, anyja neve, szül. hely és időpont, szem. ig. szám,
+lakcím),
+- készfizető kezes adatai: (neve, leánykori neve, anyja neve, szül. hely és időpont, szem. ig. szám,
+lakcím).
+3. A Hitelező ellenőrzi a hitelcél megvalósulását.
+
+4. Adós tudomásul veszi, hogy a 2. pontban meghatározott ingatlan a ……./2005. sz. Rektori Utasításban
+foglaltak szerint idegeníthető (cserélhető) el.
+5. Az adós feltétel nélkül beleegyezését adja ahhoz, hogy a 2. pontban meghatározott ingatlanra, a
+munkáltatói hitel visszafizetésének biztosítására a hitel teljes visszafizetéséig az ingatlan-nyilvántartásba
+lakás építése esetén elidegenítési és terhelési tilalmat és jelzálogjogot, lakás bővítése, korszerűsítése
+esetén jelzálogjogot jegyeztessen be a hitelező.
+Adós tudomásul veszi, hogy a jelzálogjogul lekötött ingatlanra köteles a lakás-, épületbiztosítást megkötni, a hitel
+erejéig a Hitelező jogosultságát (kedvezményezetti minőségét) bejegyeztetni, azt igazolni és a kölcsön fennállásának
+egész tartama alatt fenntartani.
+
+6. Adós tudomásul veszi, ha a jelen megállapodásban vállalt kötelezettségét nem teljesíti, illetve azt
+megszegi, a kölcsönösszeget rendeltetésétől eltérő módon vagy más célra használja fel, az a kölcsön
+felmondását vonja maga után. A kölcsönszerződés felmondása esetén a Hitelező a tartozás még ki nem
+egyenlített részét megterheli a korábban esetlegesen már jóváírt kedvezmény, valamint a pénzintézet
+
+által felszámított és a kölcsön nyújtásakor átvállalt kezelési költség összegével, és az így megállapított
+tartozás összegének megfizetése egy összegben esedékessé válik. Amennyiben a fizetési
+kötelezettségének nem tesz eleget a Ptk. 301. § (1) bek. szerinti késedelmi kamatot köteles megfizetni.
+7. Adós tudomásul veszi, ha a munkáltatói kölcsön teljes visszafizetése előtt közalkalmazotti jogviszonya
+megszűnik, a jelen megállapodás 6. pontja szerint megterhelt kölcsönhátralék egy összegben esedékessé
+válik.
+8. Adós tudomásul veszi, hogy amennyiben kérelmében valótlan adatot közöl, vagy valamely tényt,
+körülményt elhallgatott, valamint az átutalt kölcsön felhasználását a pénzintézethez történő átutalásától
+számított két hónapon belül nem kezdte meg, a Hitelező az általa nyújtott munkáltatói kölcsönt
+visszahívja.
+9. Felek tudomással bírnak arról, hogy a magánszemélyek jövedelemadójáról szóló 1995. évi CXVII. törvény
+értelmében a munkáltatói kölcsönnel a lakáscélú támogatásokról szóló jogszabályban meghatározott
+méltányolható lakásigény mértékét meghaladó lakásra, vagy a törvényben megjelölttől eltérő célra
+történő felhasználása adófizetési kötelezettséget von maga után.
+10. Adós tudomásul veszi, hogy a hitel összege nem haladhatja meg az 1995. évi CXVII. törvény 1. számú
+melléklet 2.1. pontjában megállapított mértéket.
+11. Az adós kötelezettséget vállal arra, hogy az 5. pontban meghatározott vagyonbiztosítás igazolását, a
+pénzintézettel kötött kölcsönmegállapodás megkötését követő 8 napon belül a Hitelező képviselőjének
+átadja.
+12.
+A
+Hitelező
+a
+pénzintézettel
+kötött
+bankszámlaszerződés
+alapján
+mint
+…………………………………….............. munkáltató (székhelye: ..........................................., alapító
+okirat nyt. szám: ………………….............. ) és munkavállaló hozzájárulást és megbízást adnak arra,
+hogy a ................ Ft munkáltatói kölcsön biztosítására és jelzálogjogot, valamint az azt biztosító
+elidegenítési és terhelési tilalmat a ...................................... (székhelye: ……………….................,
+cégjegyzékszám: ............, törzsszám: ..............) pénzintézet, illetve annak képviseletében eljáró
+pénzintézet …………………............... fiókja, saját nevében a 2. pontban szereplő ingatlanra a
+......................................................
+(NYME
+szerv)
+mint
+munkáltató,
+székhelye:
+............................................. javára az ingatlan-nyilvántartásba bejegyeztesse, illetve azt a
+............................................ pénzintézet által vezetett számlán nyilvántartott kölcsön visszafizetésekor
+töröltesse.
+13. Személyes kötelezettek (adós, adóstárs, kezesek) kötelesek munkahelyváltozás esetén új munkáltatójuk
+nevét és címét 3 napon belül bejelenteni. Ugyancsak fentieknek megfelelően kötelesek eljárni a megadott
+egyéb személyes adataik megváltozása esetén is (névváltozás, tartózkodási hely, családi állapot stb.).
+14. Egyéb:
+15. Jelen megállapodásban nem szabályozott kérdésekben a Polgári Törvénykönyv rendelkezései az
+irányadók. A jelen megállapodást a felek külön-külön elolvasták, megértették és mint akaratukkal
+mindenben egyezőt tanúk előtt aláírták.
+Kelt: ..........................................................
+Hitelező részéről:
+..........................................................
+
+Adós részéről:
+..........................................................
+Tanúk:
+
+Név: .........................................................................
+Név: .........................................................................
+Cím: .........................................................................
+Cím: .........................................................................
+Készült: ....... pld.
+Kapják: 1 pld. adós
+1 pld. adóstárs
+1 pld. készfizető kezes
+2 pld. pénzintézet (rendelkező levél melléklete)
+1 pld. .................. Gazdasági Főigazgatóság Pénzügyi Osztály
+1 pld. .................. Gazdasági Főigazgatóság Humánerőforrás-gazdálkodási Osztály/vagy illetékes Kar ezzel
+a feladattal megbízottja
+1 pld. Irattár
+
+
+NYILATKOZAT
+Személyi jövedelemadó fizetési kötelezettségről
+
+Alulírott
+………………………………(név)
+……………….(születési
+hely:
+……………………..
+(szül.idő)
+…………………………………
+(anyja
+neve)
+……………………………………………………………….. (Kar/szervezeti egység neve)
+közalkalmazottja büntetőjogi felelősségem tudatába kijelentem, hogy a lakáscélú munkáltatói
+támogatásra vonatkozó személyi jövedelemadó rendelkezéseit megismertem, és a lakáscélú
+munkáltatói támogatás folyósítása esetén személyi jövedelemadó fizetési kötelezettségem nem
+keletkezik.
+Vállalom, hogy amennyiben jogszabályváltozás következtében a Nyugat-magyarországi
+Egyetemet (továbbiakban: NYME), mint munkáltatót terhelő adókötelezettség keletkezik a
+lakáshitel munkáltatói támogatás okán, a NYME által teljesített kifizetést haladéktalanul
+megtérítem, illetve felhatalmazom a NYME-t, hogy azt a munkabérből történő levonás
+szabályai szerint érvényesíthesse.
+
+Kelt: ……………....... …….. év ………….. hó ….. nap.
+
+…………………………………………
+munkáltatói hitelt igénylő aláírása
+Tanuk:
+1. ……………………………………… (név)
+Lakcím: …………………………………
+Szig.szám: ………………………………
+2. ……………………………………….. (név)
+Lakcím: …………………………………..
+Szig. Szám: ………………………………
+
+
+NYILATKOZAT
+Azonnali beszedési megbízás benyújtására
+
+Alulírott
+………………………………(név)
+……………….(születési
+hely:
+……………………..
+(szül.idő)
+…………………………………
+(anyja
+neve)
+……………………………………………………………….. (Kar/szervezeti egység neve)
+közalkalmazottja
+büntetőjogi
+felelősségem
+tudatában
+kijelentem,
+hogy
+a
+……………………………………………
+(pénzintézeti
+fiók
+neve)
+……………………………….. (számlaszám) lakossági bankszámlám terhére a Nyugatmagyarországi Egyetemmel (továbbiakban: NYME) szemben fennálló lakáscélú munkáltatói
+támogatás utáni lejártfizetési kötelezettségem érvényesítése céljából, és arra korlátozottan
+felhatalmazást adok , - a Kollektív Szerződés 9. sz. melléklet – alapján azonnali beszedési
+megbízás benyújtására.
+Tudomásul veszem, hogy a számlavezető hitelintézet általi tudomásulvétel igazolásáig a
+lakáscélú munkáltatói hitel folyósítása megtagadható.
+
+Kelt: ……………....... …….. év ………….. hó ….. nap.
+
+…………………………………………
+munkáltatói hitelt igénylő aláírása
+Tanuk:
+1. ……………………………………… (név)
+Lakcím: …………………………………
+Szig.szám: ………………………………
+2. ……………………………………….. (név)
+Lakcím: …………………………………..
+Szig. szám: ………………………………
+
+
+A Személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+2006. január 1.-vel hatályban lévő rendelkezései
+A hivatkozott törvény 1. sz. mellékletének 2.1., 2.7. és 9.3 pontja tartalmazza a
+magánszemélyek adómentes bevételeinek körét az alábbiak szerint:
+2.1. pont: a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás,
+valamint a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazás alapján kiadott más
+jogszabály alapján elengedett része,
+2.7. pont: a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet útján, annak
+igazolása alapján nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú
+felhasználásra nyújtott kölcsön elengedett összegét is) a vételár vagy a teljes építési költség 30 %ig, de több munkáltató esetén is a folyósítás évet megelőző négy évben ilyenként folyósított
+összegekkel együtt legfeljebb 1 millió forintig terjedő összegben, feltéve, hogy a lakás nem haladja
+meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható
+lakásigényt.
+A lakáscélú munkáltatói támogatás adómentességével kapcsolatos szabályok:
+9.3.1. pont: Lakáscélú felhasználás:
+a.) a belföldön fekvő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak
+adásvétel vagy más visszterhes szerződés keretében történő megszerzése,
+b.) belföldön fekvő lakás építése, építtetése,
+c.) belföldön fekvő lakás alapterületének növelése, ha az legalább egy lakószobával történő
+bővítést eredményez,
+d.) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés.
+9.3.2. pont: A lakáscélú munkáltató támogatás adómentességét az elévülési időn belül történő
+megőrzési kötelezettség mellett az összeg lakáscélú felhasználására vonatkozó következő
+okiratok, bizonylatok igazolják:
+a.) a lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak a megszerzése esetén
+az érvényes szerződés és a földhivatalhoz benyújtott bejegyzési kérelem, valamint az összeg
+felhasználását igazoló okirat;
+b.) lakás építése, építtetése és lakás alapterületének növelése esetén a jogerős használatbavételi
+engedély, valamint az összeg felhasználást igazoló, a használatbavételi engedély kelte napjáig,
+illetve a használatbavételi engedélyben megjelölt feltételek teljesítése határidejéig kibocsátott, az
+építési engedély jogosultja nevére kiállított számla;
+c) lakás korszerűsítése esetén a támogatás folyósítását megelőzően hat hónapon belül és azt
+követően 12 hónapon belül kiállított, az építési termékek műszaki követelményeinek,
+megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes
+szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező - beépített termékekről szóló számla, valamint a más személy által elvégzett munka ellenértékéről
+kiállított bizonylat.
+9.3.3. pont: Amennyiben az e törvény 1. számú melléklet 2.7. alpontjában említett cél
+megvalósítása a magánszemély és/vagy más magánszemély által igénybe vett, a következő
+források felhasználása terhére (is) szervezett ügyletben történik
+a) az adott ügyletben lakásszerzési kedvezmény érvényesítésével ingatlan, vagyoni értékű jog
+átruházásából származó jövedelem,
+b) adómentes lakáscélú munkáltatói támogatás,
+c) kamatkedvezménnyel nyújtott lakáscélú munkáltatói hitel,
+d) lakás-előtakarékossági szerződés alapján folyósított összeg,
+e) a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott közvetlen
+támogatás,
+f) a lakáscélú állami támogatásokról szóló kormányrendelet alapján kamattámogatással
+folyósított kölcsön,
+g) az e törvény szerint törlesztési adókedvezmény érvényesítésével lakáscélú hitel,
+akkor az adott ügyletben nem minősülhet adómentesnek a munkáltatói támogatás azon része,
+amely ezen munkáltatói támogatás és az a)-g) pontban említett források együttes összegéből a
+9.3.2. alpontban említett okiratok által igazolt összegek együttes értékét meghaladja.
+9.3.4.pont: Ha a lakáscélú munkáltatói támogatás a 9.3.3. alpont rendelkezése alapján
+részben vagy egészben adóköteles, ideértve az adóhatóság által megállapított adóhiány esetét
+is, az adó (és más jogkövetkezmények) az adózót terhelik. Az adókötelezettség
+keletkezésének időpontja az az időpont, amikor a lakáscélú munkáltatói támogatásként
+megjelölt cél megvalósult, de legkésőbb a támogatás folyósítását követő 12 hónap utolsó
+napja.
+9.3.5. pont: A hitelintézet az adóévben a közvetítésével nyújtott támogatásról a munkáltató a
+kölcsön általa elengedett összegéről az adóévet követő január 31-éig adatot szolgáltat az
+állami adóhatóság részére.
