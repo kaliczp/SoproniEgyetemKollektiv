@@ -7,7 +7,7 @@
 #+DATE: 2010
 #+AUTHOR: Kalicz Péter
 #+EMAIL: kaliczp@barackalma.t.hu
-#+LANGUAGE: en
+#+LANGUAGE: hu
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.9)
